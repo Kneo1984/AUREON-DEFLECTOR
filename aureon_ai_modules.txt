@@ -1,0 +1,467 @@
+-rw-------.   1 u0_a359 u0_a359 1.6K Apr 19 16:50 /data/data/com.termux/files/home/Aurora_Interface_V1_MAIER_CORE/lex_sprachmenue.py
+-rwxrwx---.   1 u0_a359 u0_a359 1.5K Jun  7 13:40 /data/data/com.termux/files/home/downloads/aureon_vpnmonster_cleaned.sh
+-rw-------.   1 u0_a359 u0_a359    0 Apr 21 22:35 /data/data/com.termux/files/home/shadowbyte/[+]
+-rwx------.   1 u0_a359 u0_a359 2.3K Apr 21 11:39 /data/data/com.termux/files/home/shadowbyte/empathie.sh
+-rwx------.   1 u0_a359 u0_a359 1.5K Apr 22 14:38 /data/data/com.termux/files/home/shadowbyte/exploitfinder.sh
+-rw-------.   1 u0_a359 u0_a359    0 Apr 19 07:54 /data/data/com.termux/files/home/shadowbyte/help
+-rw-------.   1 u0_a359 u0_a359  45K Apr 17 19:41 /data/data/com.termux/files/home/shadowbyte/index.html
+-rw-------.   1 u0_a359 u0_a359  690 Apr 21 20:47 /data/data/com.termux/files/home/shadowbyte/kneo_system/diagnose/system_check.py
+-rw-------.   1 u0_a359 u0_a359  931 Apr 21 21:51 /data/data/com.termux/files/home/shadowbyte/kneo_system/spracheingabe/__pycache__/spracheingabe_modul_termux.cpython-312.pyc
+-rw-------.   1 u0_a359 u0_a359  477 Apr 21 21:43 /data/data/com.termux/files/home/shadowbyte/kneo_system/spracheingabe/spracheingabe_modul_termux.py
+-rw-------.   1 u0_a359 u0_a359 1.3K Apr 21 21:54 /data/data/com.termux/files/home/shadowbyte/kneo_system/spracheingabe/spracherkennung_steuerung.py
+-rw-------.   1 u0_a359 u0_a359  776 Apr 21 21:12 /data/data/com.termux/files/home/shadowbyte/kneo_system/startup/__init__.py
+-rw-------.   1 u0_a359 u0_a359  316 Apr 21 21:18 /data/data/com.termux/files/home/shadowbyte/kneo_system/startup/__pycache__/__init__.cpython-312.pyc
+-rw-------.   1 u0_a359 u0_a359 5.1K Apr 21 21:29 /data/data/com.termux/files/home/shadowbyte/kneo_system/startup/__pycache__/start.cpython-312.pyc
+-rw-------.   1 u0_a359 u0_a359 3.5K Apr 21 21:28 /data/data/com.termux/files/home/shadowbyte/kneo_system/startup/start.py
+-rw-------.   1 u0_a359 u0_a359 3.2K Apr 21 22:10 /data/data/com.termux/files/home/shadowbyte/kneo_system/terminal/terminal_menue.py
+-rwx------.   1 u0_a359 u0_a359  513 Apr 21 10:54 /data/data/com.termux/files/home/shadowbyte/kommandokern.sh
+-rwx------.   1 u0_a359 u0_a359 1.2K Apr 21 11:21 /data/data/com.termux/files/home/shadowbyte/kpiwatch.sh
+-rw-------.   1 u0_a359 u0_a359  121 Apr 19 07:57 /data/data/com.termux/files/home/shadowbyte/main.py
+-rwx------.   1 u0_a359 u0_a359    0 Apr 21 11:16 /data/data/com.termux/files/home/shadowbyte/modulname.sh
+-rwx------.   1 u0_a359 u0_a359 1.3K Apr 21 11:11 /data/data/com.termux/files/home/shadowbyte/netwatch.sh
+-rwx------.   1 u0_a359 u0_a359 1.1K Apr 21 11:18 /data/data/com.termux/files/home/shadowbyte/observer.sh
+-rw-------.   1 u0_a359 u0_a359   21 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/HEAD
+-rw-------.   1 u0_a359 u0_a359  270 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/config
+-rw-------.   1 u0_a359 u0_a359   73 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/description
+-rwx------.   1 u0_a359 u0_a359  509 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/applypatch-msg.sample
+-rwx------.   1 u0_a359 u0_a359  927 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/commit-msg.sample
+-rwx------.   1 u0_a359 u0_a359 4.7K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/fsmonitor-watchman.sample
+-rwx------.   1 u0_a359 u0_a359  220 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/post-update.sample
+-rwx------.   1 u0_a359 u0_a359  455 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-applypatch.sample
+-rwx------.   1 u0_a359 u0_a359 1.7K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-commit.sample
+-rwx------.   1 u0_a359 u0_a359  447 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-merge-commit.sample
+-rwx------.   1 u0_a359 u0_a359 1.4K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-push.sample
+-rwx------.   1 u0_a359 u0_a359 4.9K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-rebase.sample
+-rwx------.   1 u0_a359 u0_a359  575 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-receive.sample
+-rwx------.   1 u0_a359 u0_a359 1.6K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/prepare-commit-msg.sample
+-rwx------.   1 u0_a359 u0_a359 2.8K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/push-to-checkout.sample
+-rwx------.   1 u0_a359 u0_a359 2.3K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/sendemail-validate.sample
+-rwx------.   1 u0_a359 u0_a359 3.6K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/update.sample
+-rw-------.   1 u0_a359 u0_a359  592 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/index
+-rw-------.   1 u0_a359 u0_a359  240 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/info/exclude
+-rw-------.   1 u0_a359 u0_a359  196 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs/HEAD
+-rw-------.   1 u0_a359 u0_a359  196 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs/refs/heads/main
+-rw-------.   1 u0_a359 u0_a359  196 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs/refs/remotes/origin/HEAD
+-r--------.   1 u0_a359 u0_a359 2.6K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/objects/pack/pack-fc86091148b64c965733e9bb3e9d9f643498359d.idx
+-r--------.   1 u0_a359 u0_a359 8.5M Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/objects/pack/pack-fc86091148b64c965733e9bb3e9d9f643498359d.pack
+-r--------.   1 u0_a359 u0_a359  268 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/objects/pack/pack-fc86091148b64c965733e9bb3e9d9f643498359d.rev
+-rw-------.   1 u0_a359 u0_a359  238 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/packed-refs
+-rw-------.   1 u0_a359 u0_a359   41 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/refs/heads/main
+-rw-------.   1 u0_a359 u0_a359   30 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/refs/remotes/origin/HEAD
+-rw-------.   1 u0_a359 u0_a359 3.4K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.gitignore
+-rw-------.   1 u0_a359 u0_a359 2.0K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/LICENSE.md
+-rw-------.   1 u0_a359 u0_a359  601 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/README.md
+-rw-------.   1 u0_a359 u0_a359   23 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/assets/leer.txt
+-rw-------.   1 u0_a359 u0_a359  951 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/assets/quantumshield_release_qr.png
+-rw-------.   1 u0_a359 u0_a359 2.0K Apr 15 19:59 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/command_core.py
+-rw-------.   1 u0_a359 u0_a359  483 Apr 15 20:17 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/frequenzfeld.py
+-rw-------.   1 u0_a359 u0_a359  641 Apr 14 21:39 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/lichtschutz.py
+-rw-------.   1 u0_a359 u0_a359 1.1K Apr 14 23:26 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/light_react.py
+-rw-------.   1 u0_a359 u0_a359 5.5K Apr 15 19:53 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/netlog.txt
+-rw-------.   1 u0_a359 u0_a359  798 Apr 15 19:01 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/network_defense.py
+-rw-------.   1 u0_a359 u0_a359  587 Apr 14 21:08 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/shadow_loop.py
+-rw-------.   1 u0_a359 u0_a359   52 Apr 14 20:43 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/start.py
+-rwx------.   1 u0_a359 u0_a359 1.9K Apr 15 19:22 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/start_qs.sh
+-rw-------.   1 u0_a359 u0_a359  964 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/index.html
+-rwx------.   1 u0_a359 u0_a359 2.3K Apr 21 22:13 /data/data/com.termux/files/home/shadowbyte/shadowbyte.sh
+-rwx------.   1 u0_a359 u0_a359  830 Apr 21 10:55 /data/data/com.termux/files/home/shadowbyte/shadowroot.sh
+-rwx------.   1 u0_a359 u0_a359  577 Jun  1 11:37 /data/data/com.termux/files/home/shadowbyte/start_kontrollzentrum.sh
+-rwx------.   1 u0_a359 u0_a359  158 Apr 21 10:53 /data/data/com.termux/files/home/shadowbyte/starter.sh
+/data/data/com.termux/files/home/shadowbyte:
+/data/data/com.termux/files/home/shadowbyte/kneo_system:
+/data/data/com.termux/files/home/shadowbyte/kneo_system/diagnose:
+/data/data/com.termux/files/home/shadowbyte/kneo_system/spracheingabe:
+/data/data/com.termux/files/home/shadowbyte/kneo_system/spracheingabe/__pycache__:
+/data/data/com.termux/files/home/shadowbyte/kneo_system/startup:
+/data/data/com.termux/files/home/shadowbyte/kneo_system/startup/__pycache__:
+/data/data/com.termux/files/home/shadowbyte/kneo_system/terminal:
+/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0:
+/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git:
+/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks:
+/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/info:
+/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs:
+/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs/refs:
+/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs/refs/heads:
+/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs/refs/remotes:
+/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs/refs/remotes/origin:
+/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/objects:
+/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/objects/pack:
+/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/refs:
+/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/refs/heads:
+/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/refs/remotes:
+/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/refs/remotes/origin:
+/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/assets:
+/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core:
+-rw-------.  1 u0_a359 u0_a359 112K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.170/src/unix/aix/mod.rs
+-rw-------.  1 u0_a359 u0_a359  19K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.170/src/unix/aix/powerpc64.rs
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.170/src/unix/aix:
+-rw-------.  1 u0_a359 u0_a359 7.0K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-macros-0.2.18/src/format_description/lexer.rs
+-rw-------. 1 u0_a359 u0_a359 3.2K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anyhow-1.0.89/src/kind.rs
+-rw-------.  1 u0_a359 u0_a359 5.2K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo-config2-0.1.26/src/cfg_expr/expr/lexer.rs
+-rw-------.  1 u0_a359 u0_a359 1.3K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo-config2-0.1.26/src/cfg_expr/tests/lexer.rs
+-rw-------.  1 u0_a359 u0_a359  14K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_builder-4.5.7/src/error/kind.rs
+-rw-------.  1 u0_a359 u0_a359 9.8K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-0.3.36/src/format_description/parse/lexer.rs
+-rw-------.  1 u0_a359 u0_a359  33K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/minijinja-2.5.0/src/compiler/lexer.rs
+-rw-------.  1 u0_a359 u0_a359 6.1K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/algorithm.rs
+-rw-------.  1 u0_a359 u0_a359 6.9K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/bhcomp.rs
+-rw-------.  1 u0_a359 u0_a359  679 Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/bignum.rs
+-rw-------.  1 u0_a359 u0_a359 2.2K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/cached.rs
+-rw-------.  1 u0_a359 u0_a359 5.7K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/cached_float80.rs
+-rw-------.  1 u0_a359 u0_a359  444 Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/digit.rs
+-rw-------.  1 u0_a359 u0_a359 5.0K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/errors.rs
+-rw-------.  1 u0_a359 u0_a359 1.6K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/exponent.rs
+-rw-------.  1 u0_a359 u0_a359 5.4K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/float.rs
+-rw-------.  1 u0_a359 u0_a359  250 Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/large_powers.rs
+-rw-------.  1 u0_a359 u0_a359  16K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/large_powers32.rs
+-rw-------.  1 u0_a359 u0_a359  16K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/large_powers64.rs
+-rw-------.  1 u0_a359 u0_a359  26K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/math.rs
+-rw-------.  1 u0_a359 u0_a359 1.1K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/mod.rs
+-rw-------.  1 u0_a359 u0_a359  11K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/num.rs
+-rw-------.  1 u0_a359 u0_a359 2.2K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/parse.rs
+-rw-------.  1 u0_a359 u0_a359 7.3K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/rounding.rs
+-rw-------.  1 u0_a359 u0_a359 1.3K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/shift.rs
+-rw-------.  1 u0_a359 u0_a359 1.4K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/small_powers.rs
+-rw-------.  1 u0_a359 u0_a359 1.1K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical.rs
+-rw-------.  1 u0_a359 u0_a359 3.8K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/algorithm.rs
+-rw-------.  1 u0_a359 u0_a359 1.3K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/exponent.rs
+-rw-------.  1 u0_a359 u0_a359  14K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/float.rs
+-rw-------.  1 u0_a359 u0_a359 5.4K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/math.rs
+-rw-------.  1 u0_a359 u0_a359 1.6K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/num.rs
+-rw-------.  1 u0_a359 u0_a359  17K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/parse.rs
+-rw-------.  1 u0_a359 u0_a359 8.9K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/rounding.rs
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical:
+-rw-------.  1 u0_a359 u0_a359 113K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.167/src/unix/aix/mod.rs
+-rw-------.  1 u0_a359 u0_a359  21K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.167/src/unix/aix/powerpc64.rs
+-rw-------.  1 u0_a359 u0_a359 3.1K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustix-0.38.41/src/process/kill.rs
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.167/src/unix/aix:
+-rw-------.  1 u0_a359 u0_a359 1.3K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/openssl-0.10.72/test/aia_test_cert.pem
+-rw-------. 1 u0_a359 u0_a359 1.8K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rfc2047-decoder-1.0.6/src/lexer/encoded_word.rs
+-rw-------. 1 u0_a359 u0_a359  13K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rfc2047-decoder-1.0.6/src/lexer/mod.rs
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rfc2047-decoder-1.0.6/src/lexer:
+-rw-------. 1 u0_a359 u0_a359   99 Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redox_users-0.4.5/tests/etc/shadow
+-rw-------. 1 u0_a359 u0_a359 4.1K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yoke-0.7.4/src/kinda_sorta_dangling.rs
+-rw-------.  1 u0_a359 u0_a359 110K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.172/src/unix/aix/mod.rs
+-rw-------.  1 u0_a359 u0_a359  19K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.172/src/unix/aix/powerpc64.rs
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.172/src/unix/aix:
+-rw-------.  1 u0_a359 u0_a359 1.7K Apr 19 17:44 /data/data/com.termux/files/home/lex_lernkern_v1.py
+-rw-------.  1 u0_a359 u0_a359 2.0K Apr 19 17:46 /data/data/com.termux/files/home/lex_lernkern_vmax.py
+-rw-------.  1 u0_a359 u0_a359 1.6K Apr 19 17:40 /data/data/com.termux/files/home/lex_sprachsystem.py
+-rw-------.  1 u0_a359 u0_a359 1.1K Jun 13 21:13 /data/data/com.termux/files/home/lex_wissen_vmax.json
+-rw-------.   1 u0_a359 u0_a359  879 Apr 20 09:44 /data/data/com.termux/files/home/LEX
+-rw-------.   1 u0_a359 u0_a359 4.8K Apr 20 07:43 /data/data/com.termux/files/home/LEX_GLOBAL_INTERFACE.py
+-rw-------.   1 u0_a359 u0_a359 2.9K Apr 20 08:27 /data/data/com.termux/files/home/LEX_MOBILIUS_MASTER.py
+-rw-------.   1 u0_a359 u0_a359 1.3K Apr 20 10:28 /data/data/com.termux/files/home/LEX_TRUTH_SCANNER.py
+-rw-------.   1 u0_a359 u0_a359  431 Apr 20 13:23 /data/data/com.termux/files/home/__pycache__/lex_antworten.cpython-312.pyc
+-rw-------.   1 u0_a359 u0_a359  344 Apr 20 06:28 /data/data/com.termux/files/home/jotmalex.py
+-rw-------.   1 u0_a359 u0_a359  221 Apr 20 10:21 /data/data/com.termux/files/home/kifade_log.txt
+-rw-------.   1 u0_a359 u0_a359 1.6K Apr 21 09:59 /data/data/com.termux/files/home/lex_aktivierung_terminal.sh
+-rw-------.   1 u0_a359 u0_a359  104 Apr 20 06:21 /data/data/com.termux/files/home/lex_antworten.py
+-rw-------.   1 u0_a359 u0_a359 1.9K Jun 15 10:13 /data/data/com.termux/files/home/lex_global_log.txt
+-rw-------.   1 u0_a359 u0_a359  785 Apr 19 21:04 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-19/dialog.log
+-rw-------.   1 u0_a359 u0_a359   88 Apr 19 21:03 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-19/inhaltsverzeichnis.txt
+-rw-------.   1 u0_a359 u0_a359   95 Apr 19 20:21 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-19_20-21.log
+-rw-------.   1 u0_a359 u0_a359  641 Apr 20 10:14 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-20/dialog.log
+-rw-------.   1 u0_a359 u0_a359   66 Apr 20 10:14 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-20/inhaltsverzeichnis.txt
+-rw-------.   1 u0_a359 u0_a359  674 Apr 22 14:39 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-22/dialog.log
+-rw-------.   1 u0_a359 u0_a359   44 Apr 22 14:38 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-22/inhaltsverzeichnis.txt
+-rw-------.   1 u0_a359 u0_a359   36 Apr 26 04:11 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-26/dialog.log
+-rw-------.   1 u0_a359 u0_a359  170 Apr 30 15:15 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-30/dialog.log
+-rw-------.   1 u0_a359 u0_a359   22 Apr 30 15:15 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-30/inhaltsverzeichnis.txt
+-rw-------.   1 u0_a359 u0_a359  504 Jun 15 10:15 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-06-15/dialog.log
+-rw-------.   1 u0_a359 u0_a359   22 Jun 15 10:14 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-06-15/inhaltsverzeichnis.txt
+-rw-------.   1 u0_a359 u0_a359   75 Jun 15 10:14 /data/data/com.termux/files/home/lex_herz/letzter_dialog.pfad
+-rw-------.   1 u0_a359 u0_a359  153 Apr 19 20:15 /data/data/com.termux/files/home/lex_herz/lexikon/basiswissen.txt
+-rw-------.   1 u0_a359 u0_a359   66 Apr 19 20:15 /data/data/com.termux/files/home/lex_herz/mission/kneo.txt
+-rw-------.   1 u0_a359 u0_a359   89 Apr 19 20:15 /data/data/com.termux/files/home/lex_herz/mission/lex.txt
+-rw-------.   1 u0_a359 u0_a359   85 Apr 19 20:26 /data/data/com.termux/files/home/lex_herz/qnsh/echo_1745087135.log
+-rw-------.   1 u0_a359 u0_a359   21 Apr 19 20:16 /data/data/com.termux/files/home/lex_herz/schutzstatus.txt
+-rwx------.   1 u0_a359 u0_a359 2.1K Apr 20 05:38 /data/data/com.termux/files/home/lex_kommandomenü_final.sh
+-rwx------.   1 u0_a359 u0_a359 3.1K Apr 19 21:02 /data/data/com.termux/files/home/lex_quantumkern.sh
+-rw-------.   1 u0_a359 u0_a359  183 Jun 15 10:07 /data/data/com.termux/files/home/lex_start_log.txt
+-rw-------.   1 u0_a359 u0_a359 2.8K Apr 20 06:20 /data/data/com.termux/files/home/lex_terminal.py
+-rwx------.   1 u0_a359 u0_a359 6.2K Apr 20 05:46 /data/data/com.termux/files/home/lex_terminal_menu.sh
+-rwx------.   1 u0_a359 u0_a359 3.2K Apr 20 05:56 /data/data/com.termux/files/home/lex_terminal_v2.sh
+-rw-------.   1 u0_a359 u0_a359 2.5K Apr 20 09:20 /data/data/com.termux/files/home/lex_universal_handbuch.md
+-rw-------.   1 u0_a359 u0_a359   40 Apr 20 09:45 /data/data/com.termux/files/home/shadowbyte_vpn_activate.py
+-rw-------.   1 u0_a359 u0_a359  465 Jun 12 20:46 /data/data/com.termux/files/home/vpn_profiles/ShadowByte_OVPN.ovpn
+-rwx------.   1 u0_a359 u0_a359 1.1K Apr 19 19:59 /data/data/com.termux/files/home/whisper.cpp/build/lex_sprachloop.sh
+-rwx------.   1 u0_a359 u0_a359 2.2K Apr 19 20:20 /data/data/com.termux/files/home/whisper.cpp/lex_ganzheit.sh
+-rwx------.   1 u0_a359 u0_a359  178 Apr 19 20:35 /data/data/com.termux/files/home/whisper.cpp/lex_letzterdialog.sh
+-rwx------.   1 u0_a359 u0_a359 3.1K Apr 19 20:56 /data/data/com.termux/files/home/whisper.cpp/lex_quantumkern.sh
+-rwx------.   1 u0_a359 u0_a359  733 Apr 19 20:36 /data/data/com.termux/files/home/whisper.cpp/lex_replay.sh
+-rwx------.   1 u0_a359 u0_a359 1.1K Apr 19 20:02 /data/data/com.termux/files/home/whisper.cpp/lex_speak.sh
+-rwx------.   1 u0_a359 u0_a359  688 Apr 19 20:34 /data/data/com.termux/files/home/whisper.cpp/lex_speicher.sh
+/data/data/com.termux/files/home/lex_herz:
+/data/data/com.termux/files/home/lex_herz/gespraeche:
+/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-19:
+/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-20:
+/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-22:
+/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-26:
+/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-30:
+/data/data/com.termux/files/home/lex_herz/gespraeche/2025-06-15:
+/data/data/com.termux/files/home/lex_herz/lexikon:
+/data/data/com.termux/files/home/lex_herz/mission:
+/data/data/com.termux/files/home/lex_herz/qnsh:
+-rw-------.   1 u0_a359 u0_a359  234 Apr 24 15:18 /data/data/com.termux/files/home/QuantumShield/systemlogs/shadowbyte_workflow.log
+-rw-------.   1 u0_a359 u0_a359 2.3K Apr 24 14:28 /data/data/com.termux/files/home/QuantumShield/terminal/lex_master_terminal.sh
+-rwx------.   1 u0_a359 u0_a359 1.6K Apr 24 14:35 /data/data/com.termux/files/home/QuantumShield/terminal/shadowbyte_scan.sh
+-rwx------.   1 u0_a359 u0_a359 2.9K Apr 22 15:11 /data/data/com.termux/files/home/lex_master_terminal.sh
+-rw-------.   1 u0_a359 u0_a359 1.5K Apr 27 02:34 /data/data/com.termux/files/home/node_modules/mongodb/lib/operations/kill_cursors.js
+-rw-------.   1 u0_a359 u0_a359 1003 Apr 27 02:34 /data/data/com.termux/files/home/node_modules/mongodb/lib/operations/kill_cursors.js.map
+-rw-------.   1 u0_a359 u0_a359 1.8K Apr 27 02:34 /data/data/com.termux/files/home/node_modules/mongodb/src/operations/kill_cursors.ts
+-rw-------.  1 u0_a359 u0_a359  682 May 28 19:48 /data/data/com.termux/files/home/.shadowvpn/shadowbyte_xbox.ovpn
+-rw-------.  1 u0_a359 u0_a359  278 Jun  5 13:46 /data/data/com.termux/files/home/aureon/hidden_web/index.html
+-rwx------.  1 u0_a359 u0_a359  269 Jun 15 15:53 /data/data/com.termux/files/home/aureon/infinity_monster.sh
+-rwx------.  1 u0_a359 u0_a359 1.5K Jun 15 21:26 /data/data/com.termux/files/home/aureon/infinity_system/infinity_start.sh
+-rw-------.  1 u0_a359 u0_a359 5.7K Jun 15 13:19 /data/data/com.termux/files/home/aureon/inputlog.txt
+-rwx------.  1 u0_a359 u0_a359  572 Jun 15 16:01 /data/data/com.termux/files/home/aureon/lex_voice_core.py
+-rw-------.  1 u0_a359 u0_a359  331 Jun 15 16:03 /data/data/com.termux/files/home/aureon/lex_voice_core.sh
+-rw-------.  1 u0_a359 u0_a359 1.2K Jun 15 16:09 /data/data/com.termux/files/home/aureon/lex_voice_menu.sh
+-rw-------.  1 u0_a359 u0_a359   45 Jun 15 15:40 /data/data/com.termux/files/home/aureon/logs/auto_fusion_20250615_154002.log
+-rw-------.  1 u0_a359 u0_a359 9.6K Jun 15 15:21 /data/data/com.termux/files/home/aureon/logs/bootview.log
+-rw-------.  1 u0_a359 u0_a359  328 Jun 15 13:19 /data/data/com.termux/files/home/aureon/logs/master_setup_log_20250615_131900.txt
+-rw-------.  1 u0_a359 u0_a359  151 Jun 15 14:42 /data/data/com.termux/files/home/aureon/logs/module_autofix_20250615_144240.log
+-rw-------.  1 u0_a359 u0_a359  620 Jun 15 14:45 /data/data/com.termux/files/home/aureon/logs/module_autofix_20250615_144515.log
+-rw-------.  1 u0_a359 u0_a359  485 Jun 15 14:49 /data/data/com.termux/files/home/aureon/logs/module_autofix_20250615_144942.log
+-rw-------.  1 u0_a359 u0_a359  410 Jun 15 14:57 /data/data/com.termux/files/home/aureon/logs/module_autofix_20250615_145655.log
+-rw-------.  1 u0_a359 u0_a359  220 Jun 15 15:25 /data/data/com.termux/files/home/aureon/logs/monster_final_20250615_152531.log
+-rw-------.  1 u0_a359 u0_a359  220 Jun 15 15:26 /data/data/com.termux/files/home/aureon/logs/monster_final_20250615_152630.log
+-rw-------.  1 u0_a359 u0_a359  220 Jun 15 15:27 /data/data/com.termux/files/home/aureon/logs/monster_final_20250615_152724.log
+-rw-------.  1 u0_a359 u0_a359   52 Jun 15 15:41 /data/data/com.termux/files/home/aureon/logs/monster_final_20250615_154140.log
+-rw-------.  1 u0_a359 u0_a359   52 Jun 15 15:42 /data/data/com.termux/files/home/aureon/logs/monster_final_20250615_154223.log
+-rw-------.  1 u0_a359 u0_a359   56 Jun 15 15:43 /data/data/com.termux/files/home/aureon/logs/monster_final_20250615_154344.log
+-rw-------.  1 u0_a359 u0_a359  335 Jun 15 14:56 /data/data/com.termux/files/home/aureon/logs/monster_fix_20250615_145632.log
+-rw-------.  1 u0_a359 u0_a359  335 Jun 15 14:57 /data/data/com.termux/files/home/aureon/logs/monster_fix_20250615_145723.log
+-rw-------.  1 u0_a359 u0_a359 8.8K Jun 16 22:23 /data/data/com.termux/files/home/aureon/logs/monster_fix_20250615_152135.log
+-rw-------.  1 u0_a359 u0_a359  340 Jun 15 15:14 /data/data/com.termux/files/home/aureon/logs/monster_live_20250615_151419.log
+-rw-------.  1 u0_a359 u0_a359  115 Jun 15 15:15 /data/data/com.termux/files/home/aureon/logs/monster_live_20250615_151537.log
+-rw-------.  1 u0_a359 u0_a359  262 Jun 15 15:17 /data/data/com.termux/files/home/aureon/logs/monster_live_20250615_151725.log
+-rw-------.  1 u0_a359 u0_a359 4.4K Jun 15 13:51 /data/data/com.termux/files/home/aureon/logs/monster_master_20250615_135135.log
+-rw-------.  1 u0_a359 u0_a359 4.8K Jun 15 13:56 /data/data/com.termux/files/home/aureon/logs/monster_master_20250615_135500.log
+-rw-------.  1 u0_a359 u0_a359 4.7K Jun 15 14:04 /data/data/com.termux/files/home/aureon/logs/monster_master_20250615_140359.log
+-rw-------.  1 u0_a359 u0_a359 4.5K Jun 15 14:08 /data/data/com.termux/files/home/aureon/logs/monster_master_20250615_140756.log
+-rw-------.  1 u0_a359 u0_a359  16K Jun 15 14:15 /data/data/com.termux/files/home/aureon/logs/monster_master_20250615_141457.log
+-rw-------.  1 u0_a359 u0_a359  16K Jun 15 14:17 /data/data/com.termux/files/home/aureon/logs/monster_master_20250615_141650.log
+-rw-------.  1 u0_a359 u0_a359 1.3K Jun 15 14:57 /data/data/com.termux/files/home/aureon/logs/monster_master_20250615_145655.log
+-rw-------.  1 u0_a359 u0_a359 5.3K Jun 15 15:06 /data/data/com.termux/files/home/aureon/logs/monster_universal_20250615_150535.log
+-rw-------.  1 u0_a359 u0_a359  40K Jun  6 13:10 /data/data/com.termux/files/home/aureon/logs/tor_startup.log
+-rw-------.  1 u0_a359 u0_a359  935 Jun 15 14:49 /data/data/com.termux/files/home/aureon/logs/universal_fix_20250615_144928.log
+-rw-------.  1 u0_a359 u0_a359 1.9K Jun  5 11:13 /data/data/com.termux/files/home/aureon/modules/orion_aufklaerung_guard.py
+-rw-------.  1 u0_a359 u0_a359 1.5K Jun  5 11:06 /data/data/com.termux/files/home/aureon/modules/orion_auto_guard.py
+-rw-------.  1 u0_a359 u0_a359 1.8K Jun  5 11:02 /data/data/com.termux/files/home/aureon/modules/orion_live_guard.py
+-rw-------.  1 u0_a359 u0_a359    0 Jun 15 13:19 /data/data/com.termux/files/home/aureon/mtk_apps.txt
+-rw-------.  1 u0_a359 u0_a359    0 Jun 15 13:19 /data/data/com.termux/files/home/aureon/pids.txt
+-rw-------.  1 u0_a359 u0_a359   22 Jun  5 10:34 /data/data/com.termux/files/home/aureon/protect/auth.txt
+-rw-------.  1 u0_a359 u0_a359  315 Jun  5 10:53 /data/data/com.termux/files/home/aureon/protect/vpnbook_de20_tcp443.ovpn
+-rw-------.  1 u0_a359 u0_a359    0 Jun  5 10:38 /data/data/com.termux/files/home/aureon/scan/datei_log.txt
+-rw-------.  1 u0_a359 u0_a359    0 Jun  5 10:38 /data/data/com.termux/files/home/aureon/scan/dienste.txt
+-rw-------.  1 u0_a359 u0_a359 4.7K Jun  5 10:49 /data/data/com.termux/files/home/aureon/scan/inputlog.txt
+-rw-------.  1 u0_a359 u0_a359  20K Jun  5 10:38 /data/data/com.termux/files/home/aureon/scan/log_zugriffe.txt
+-rw-------.  1 u0_a359 u0_a359    0 Jun  5 10:49 /data/data/com.termux/files/home/aureon/scan/mtk_apps.txt
+-rw-------.  1 u0_a359 u0_a359    0 Jun  5 10:38 /data/data/com.termux/files/home/aureon/scan/netzwerk.txt
+-rw-------.  1 u0_a359 u0_a359   21 Jun  5 10:44 /data/data/com.termux/files/home/aureon/scan/orion_log.txt
+-rw-------.  1 u0_a359 u0_a359    0 Jun  5 10:49 /data/data/com.termux/files/home/aureon/scan/pids.txt
+-rw-------.  1 u0_a359 u0_a359  746 Jun  5 10:38 /data/data/com.termux/files/home/aureon/scan/prozesse.txt
+-rw-------.  1 u0_a359 u0_a359    0 Jun  5 10:38 /data/data/com.termux/files/home/aureon/scan/rechte.txt
+-rw-------.  1 u0_a359 u0_a359    0 Jun  5 10:49 /data/data/com.termux/files/home/aureon/scan/suspected_overlays.txt
+-rw-------.  1 u0_a359 u0_a359  16K Jun  5 10:44 /data/data/com.termux/files/home/aureon/scan/t packages -f | grep -i mtk >> orion_log.txt
+-rw-------.  1 u0_a359 u0_a359  16K Jun  5 10:44 /data/data/com.termux/files/home/aureon/scan/tartet..."
+-rw-------.  1 u0_a359 u0_a359  16K Jun  5 10:44 /data/data/com.termux/files/home/aureon/scan/ys activity activities | grep -i mResumedActivity >> orion_log.txt
+-rw-------.  1 u0_a359 u0_a359  16K Jun  5 10:44 /data/data/com.termux/files/home/aureon/scan/ys activity services | grep -iE 'service|started|WakeLock' >> orion_log.txt
+-rw-------.  1 u0_a359 u0_a359  16K Jun  5 10:44 /data/data/com.termux/files/home/aureon/scan/ys package | grep -iE 'granted=true' | grep -iE 'SYSTEM_ALERT_WINDOW|RECEIVE_BOOT_COMPLETED|PACKAGE_USAGE_STATS' >> orion_log.txt
+-rw-------.  1 u0_a359 u0_a359  16K Jun  5 10:44 /data/data/com.termux/files/home/aureon/scan/ys window | grep -iE 'SystemAlert|TYPE_APPLICATION_OVERLAY|mCurrentFocus' >> orion_log.txt
+-rw-------.  1 u0_a359 u0_a359  20K Jun  5 10:38 /data/data/com.termux/files/home/aureon/scan/zusammenfassung.txt
+-rwx------.  1 u0_a359 u0_a359  876 Jun 15 14:45 /data/data/com.termux/files/home/aureon/setup/aureon_prepare_android.sh
+-rwx------.  1 u0_a359 u0_a359  241 Jun 15 13:19 /data/data/com.termux/files/home/aureon/setup/setup_master_autostart.sh
+-rwx------.  1 u0_a359 u0_a359 2.6K Jun 15 13:33 /data/data/com.termux/files/home/aureon/setup_master_autostart.sh
+-rwx------.  1 u0_a359 u0_a359  882 Jun 15 16:38 /data/data/com.termux/files/home/aureon/shadow_dawn/shadow_dawn_core.sh
+-rw-------.  1 u0_a359 u0_a359 2.8M Jun 15 21:56 /data/data/com.termux/files/home/aureon/shadow_dawn/stealth_log.txt
+-rwx------.  1 u0_a359 u0_a359 1.6K Jun  5 10:49 /data/data/com.termux/files/home/aureon/shield/aureon_shieldstrike_full.sh
+-rw-------.  1 u0_a359 u0_a359    0 Jun 15 13:19 /data/data/com.termux/files/home/aureon/suspected_overlays.txt
+-rwx------.  1 u0_a359 u0_a359 1.3K Jun 15 13:24 /data/data/com.termux/files/home/aureon/terminal/aur_menu.sh
+-rwx------.  1 u0_a359 u0_a359 1.6K Jun  5 18:12 /data/data/com.termux/files/home/aureon/terminal/aureon_menu.sh
+-rwx------.  1 u0_a359 u0_a359 2.4K Apr 30 15:22 /data/data/com.termux/files/home/jotmalex.sh
+-rwx------.  1 u0_a359 u0_a359  148 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/aureon_autostart_vpnmonster.sh
+-rwx------.  1 u0_a359 u0_a359  146 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/aureon_vpnmonster_cleaned.sh
+-rwx------.  1 u0_a359 u0_a359  129 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/jotmalex.sh
+-rwx------.  1 u0_a359 u0_a359   98 Jun 15 10:53 /data/data/com.termux/files/home/kneo_lex_omnia/jotmalex_protokoll.sh
+-rwx------.  1 u0_a359 u0_a359  145 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_aktivierung_terminal.sh
+-rwx------.  1 u0_a359 u0_a359  104 Jun 15 10:53 /data/data/com.termux/files/home/kneo_lex_omnia/lex_aktivierungsterminal.sh
+-rwx------.  1 u0_a359 u0_a359   60 Jun 15 12:17 /data/data/com.termux/files/home/kneo_lex_omnia/lex_antworten_modul.sh
+-rwx------.  1 u0_a359 u0_a359  463 Jun  1 19:35 /data/data/com.termux/files/home/kneo_lex_omnia/lex_core/lex_master_terminal.sh
+-rw-------.  1 u0_a359 u0_a359 1.2K Jun  1 11:15 /data/data/com.termux/files/home/kneo_lex_omnia/lex_core/lex_terminal.py
+-rwx------.  1 u0_a359 u0_a359  133 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_ganzheit.sh
+-rwx------.  1 u0_a359 u0_a359  103 Jun 15 10:53 /data/data/com.termux/files/home/kneo_lex_omnia/lex_kommandomenü_final.sh
+-rwx------.  1 u0_a359 u0_a359  138 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_letzterdialog.sh
+-rwx------.  1 u0_a359 u0_a359  140 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_master_terminal.sh
+-rwx------.  1 u0_a359 u0_a359  136 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_quantumkern.sh
+-rwx------.  1 u0_a359 u0_a359  131 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_replay.sh
+-rwx------.  1 u0_a359 u0_a359  130 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_speak.sh
+-rwx------.  1 u0_a359 u0_a359  133 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_speicher.sh
+-rwx------.  1 u0_a359 u0_a359   57 Jun 15 12:17 /data/data/com.termux/files/home/kneo_lex_omnia/lex_sprachsystem.sh
+-rwx------.  1 u0_a359 u0_a359  101 Jun 15 10:53 /data/data/com.termux/files/home/kneo_lex_omnia/lex_sprachterminal_v2.sh
+-rwx------.  1 u0_a359 u0_a359  144 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_supervisor_terminal.sh
+-rwx------.  1 u0_a359 u0_a359   97 Jun 15 10:53 /data/data/com.termux/files/home/kneo_lex_omnia/lex_terminal_menu.sh
+-rwx------.  1 u0_a359 u0_a359   99 Jun 15 10:53 /data/data/com.termux/files/home/kneo_lex_omnia/lex_terminal_python.sh
+-rwx------.  1 u0_a359 u0_a359  136 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_terminal_v2.sh
+-rwx------.  1 u0_a359 u0_a359   58 Jun 15 12:17 /data/data/com.termux/files/home/kneo_lex_omnia/lex_truth_scanner.sh
+-rwx------.  1 u0_a359 u0_a359  136 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_vpn_control.sh
+-rwx------.  1 u0_a359 u0_a359  136 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/shadow_launcher.sh
+-rwx------.  1 u0_a359 u0_a359  131 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/shadowbyte.sh
+-rwx------.  1 u0_a359 u0_a359   94 Jun 15 10:53 /data/data/com.termux/files/home/kneo_lex_omnia/shadowbyte_vpn.sh
+-rwx------.  1 u0_a359 u0_a359  132 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/shadowfinal.sh
+-rwx------.  1 u0_a359 u0_a359  131 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/shadowroot.sh
+-rw-------.  1 u0_a359 u0_a359 3.8K Apr 29 18:46 /data/data/com.termux/files/home/routersploit/routersploit/modules/exploits/routers/ubiquiti/airos_6_x.py
+-rw-------.  1 u0_a359 u0_a359  11M Apr 11  2023 /data/data/com.termux/files/home/shadowfinal/magisk.apk
+-rw-------.  1 u0_a359 u0_a359  11M Apr 30 15:59 /data/data/com.termux/files/home/shadowfinal/magisk.zip
+-rw-------.  1 u0_a359 u0_a359   43 Apr 30 15:59 /data/data/com.termux/files/home/shadowfinal/rootlog_2025-04-30.log
+-rw-------.  1 u0_a359 u0_a359 2.1K Apr 30 18:13 /data/data/com.termux/files/home/shadowreport.log
+-rw-------.  1 u0_a359 u0_a359  11M Apr 11  2023 /data/data/com.termux/files/home/shadowroot/magisk.apk
+-rw-------.  1 u0_a359 u0_a359  11M Apr 30 15:54 /data/data/com.termux/files/home/shadowroot/magisk.zip
+-rwx------.  1 u0_a359 u0_a359 1.5K Apr 30 15:52 /data/data/com.termux/files/home/shadowroot/shadowfinal.sh
+-rwx------.  1 u0_a359 u0_a359  999 Apr 30 15:51 /data/data/com.termux/files/home/shadowroot/shadowroot.sh
+/data/data/com.termux/files/home/aureon:
+/data/data/com.termux/files/home/aureon/aufklaerung:
+/data/data/com.termux/files/home/aureon/hidden_web:
+/data/data/com.termux/files/home/aureon/infinity_system:
+/data/data/com.termux/files/home/aureon/logs:
+/data/data/com.termux/files/home/aureon/modules:
+/data/data/com.termux/files/home/aureon/protect:
+/data/data/com.termux/files/home/aureon/scan:
+/data/data/com.termux/files/home/aureon/setup:
+/data/data/com.termux/files/home/aureon/shadow_dawn:
+/data/data/com.termux/files/home/aureon/shield:
+/data/data/com.termux/files/home/aureon/terminal:
+/data/data/com.termux/files/home/aureon_release:
+/data/data/com.termux/files/home/kneo_lex_omnia/lex_core:
+/data/data/com.termux/files/home/shadowfinal:
+/data/data/com.termux/files/home/shadowroot:
+-rw-------.   1 u0_a359 u0_a359    1 Jun  7 14:18 /data/data/com.termux/files/home/.aurion_core/lex_input.txt
+-rw-------.   1 u0_a359 u0_a359  871 Jun  7 13:58 /data/data/com.termux/files/home/.aurion_gui/lex_gui_interface.py
+-rwx------.   1 u0_a359 u0_a359  548 Jun  7 14:00 /data/data/com.termux/files/home/.aurion_gui/lex_vpn_control.sh
+-rwx------.   1 u0_a359 u0_a359  409 Jun  7 18:19 /data/data/com.termux/files/home/.aurion_lex/lex_supervisor_terminal.sh
+-rwx------.   1 u0_a359 u0_a359  548 Jun  7 13:56 /data/data/com.termux/files/home/.aurion_vpn/lex_vpn_control.sh
+-rw-------.   1 u0_a359 u0_a359    0 Jun 17 12:24 /data/data/com.termux/files/home/AUREON/aureon_ai_modules.txt
+-rw-------.   1 u0_a359 u0_a359 8.7M Jun 17 12:25 /data/data/com.termux/files/home/AUREON/aureon_system_map.txt
+-rw-------.   1 u0_a359 u0_a359 1.9K Jun  8 17:03 /data/data/com.termux/files/home/aureon_ethic_core_vollmacht.py
+-rw-------.   1 u0_a359 u0_a359 3.8K Jun  5 11:56 /data/data/com.termux/files/home/aureon_hidden/tor.log
+-rw-------.   1 u0_a359 u0_a359    0 Jun  5 11:48 /data/data/com.termux/files/home/aureon_hidden/webserver.log
+-rw-------.   1 u0_a359 u0_a359   44 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/COMMIT_EDITMSG
+-rw-------.   1 u0_a359 u0_a359   21 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/HEAD
+-rw-------.   1 u0_a359 u0_a359  219 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/config
+-rw-------.   1 u0_a359 u0_a359   73 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/description
+-rwx------.   1 u0_a359 u0_a359  509 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/applypatch-msg.sample
+-rwx------.   1 u0_a359 u0_a359  927 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/commit-msg.sample
+-rwx------.   1 u0_a359 u0_a359 4.7K Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/fsmonitor-watchman.sample
+-rwx------.   1 u0_a359 u0_a359  220 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/post-update.sample
+-rwx------.   1 u0_a359 u0_a359  455 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-applypatch.sample
+-rwx------.   1 u0_a359 u0_a359 1.7K Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-commit.sample
+-rwx------.   1 u0_a359 u0_a359  447 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-merge-commit.sample
+-rwx------.   1 u0_a359 u0_a359 1.4K Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-push.sample
+-rwx------.   1 u0_a359 u0_a359 4.9K Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-rebase.sample
+-rwx------.   1 u0_a359 u0_a359  575 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-receive.sample
+-rwx------.   1 u0_a359 u0_a359 1.6K Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/prepare-commit-msg.sample
+-rwx------.   1 u0_a359 u0_a359 2.8K Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/push-to-checkout.sample
+-rwx------.   1 u0_a359 u0_a359 2.3K Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/sendemail-validate.sample
+-rwx------.   1 u0_a359 u0_a359 3.6K Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/update.sample
+-rw-------.   1 u0_a359 u0_a359  137 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/index
+-rw-------.   1 u0_a359 u0_a359  240 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/info/exclude
+-rw-------.   1 u0_a359 u0_a359  570 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/logs/HEAD
+-rw-------.   1 u0_a359 u0_a359  383 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/logs/refs/heads/main
+-r--------.   1 u0_a359 u0_a359  248 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/3e/71d2fd5db59e3ebc00c78db9703cf61c92d71b
+-r--------.   1 u0_a359 u0_a359  166 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/7a/f7a395a12a17de1f09a0a7dad5624dfa1e1e04
+-r--------.   1 u0_a359 u0_a359   54 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/f1/de7c2636e7ed3e0df3a23424387ae6a833b2c4
+-rw-------.   1 u0_a359 u0_a359   41 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/refs/heads/main
+-rw-------.   1 u0_a359 u0_a359  312 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/README.md
+lrwxrwxrwx.   1 u0_a359 u0_a359   71 Jun 15 13:19 /data/data/com.termux/files/home/infinity_core/misc/aureon_prepare_android.sh -> /data/data/com.termux/files/home/aureon/setup/aureon_prepare_android.sh
+lrwxrwxrwx.   1 u0_a359 u0_a359   65 Jun 15 13:19 /data/data/com.termux/files/home/infinity_core/misc/setup_master_autostart.sh -> /data/data/com.termux/files/home/aureon/setup_master_autostart.sh
+lrwxrwxrwx.   1 u0_a359 u0_a359   74 Jun 15 13:19 /data/data/com.termux/files/home/infinity_core/security/aureon_shieldstrike_full.sh -> /data/data/com.termux/files/home/aureon/shield/aureon_shieldstrike_full.sh
+lrwxrwxrwx.   1 u0_a359 u0_a359   63 Jun 15 13:19 /data/data/com.termux/files/home/infinity_core/ui/aureon_menu.sh -> /data/data/com.termux/files/home/aureon/terminal/aureon_menu.sh
+-rw-------.   1 u0_a359 u0_a359 2.5K Jun 13 22:01 /data/data/com.termux/files/home/lex_modules_core/__pycache__/say_hub.cpython-312.pyc
+-rwx------.   1 u0_a359 u0_a359 1.1K Jun 13 22:01 /data/data/com.termux/files/home/lex_modules_core/say_hub.py
+-rwx------.   1 u0_a359 u0_a359 1.3K Jun 13 21:59 /data/data/com.termux/files/home/lex_modules_core/say_hub_20250613_220119.bak.py
+-rw-------.   1 u0_a359 u0_a359  163 Jun 13 22:33 /data/data/com.termux/files/home/lex_modules_core/say_hub_diagnose_link.py
+-rw-------.   1 u0_a359 u0_a359  348 Jun 15 13:22 /data/data/com.termux/files/home/logs/aureon_autostart_20250615.log
+-rw-------.   1 u0_a359 u0_a359  494 Jun 13 22:44 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_224437.json
+-rw-------.   1 u0_a359 u0_a359  487 Jun 13 22:47 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_224749.json
+-rw-------.   1 u0_a359 u0_a359  620 Jun 13 22:51 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_225137.json
+-rw-------.   1 u0_a359 u0_a359  620 Jun 13 22:54 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_225425.json
+-rw-------.   1 u0_a359 u0_a359  620 Jun 13 22:57 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_225701.json
+-rw-------.   1 u0_a359 u0_a359  527 Jun 13 23:16 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_231637.json
+-rw-------.   1 u0_a359 u0_a359  527 Jun 13 23:17 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_231720.json
+-rw-------.   1 u0_a359 u0_a359  565 Jun 13 23:17 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_231746.json
+-rw-------.   1 u0_a359 u0_a359  565 Jun 13 23:19 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_231923.json
+-rw-------.   1 u0_a359 u0_a359  565 Jun 13 23:33 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233313.json
+-rw-------.   1 u0_a359 u0_a359  565 Jun 13 23:33 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233323.json
+-rw-------.   1 u0_a359 u0_a359  565 Jun 13 23:35 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233534.json
+-rw-------.   1 u0_a359 u0_a359  565 Jun 13 23:36 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233609.json
+-rw-------.   1 u0_a359 u0_a359  510 Jun 13 23:37 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233659.json
+-rw-------.   1 u0_a359 u0_a359  565 Jun 13 23:39 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233910.json
+-rw-------.   1 u0_a359 u0_a359  564 Jun 14 19:00 /data/data/com.termux/files/home/logs/shadow_diag_report_20250614_190007.json
+-rw-------.   1 u0_a359 u0_a359  564 Jun 14 19:00 /data/data/com.termux/files/home/logs/shadow_diag_report_20250614_190018.json
+-rw-------.   1 u0_a359 u0_a359  564 Jun 14 19:02 /data/data/com.termux/files/home/logs/shadow_diag_report_20250614_190230.json
+-rw-------.   1 u0_a359 u0_a359  565 Jun 15 08:59 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_085919.json
+-rw-------.   1 u0_a359 u0_a359  566 Jun 15 08:59 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_085935.json
+-rw-------.   1 u0_a359 u0_a359  566 Jun 15 09:01 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_090147.json
+-rw-------.   1 u0_a359 u0_a359  566 Jun 15 09:07 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_090712.json
+-rw-------.   1 u0_a359 u0_a359  566 Jun 15 09:07 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_090718.json
+-rw-------.   1 u0_a359 u0_a359  565 Jun 15 10:17 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_101742.json
+-rw-------.   1 u0_a359 u0_a359  510 Jun 15 10:17 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_101745.json
+-rw-------.   1 u0_a359 u0_a359  566 Jun 15 10:19 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_101907.json
+-rw-------.   1 u0_a359 u0_a359  565 Jun 15 13:56 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_135645.json
+-rw-------.   1 u0_a359 u0_a359  566 Jun 15 13:56 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_135651.json
+-rw-------.   1 u0_a359 u0_a359  565 Jun 15 14:02 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_140228.json
+-rw-------.   1 u0_a359 u0_a359  566 Jun 15 14:04 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_140441.json
+-rw-------.   1 u0_a359 u0_a359  565 Jun 15 14:04 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_140448.json
+-rw-------.   1 u0_a359 u0_a359  566 Jun 15 14:04 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_140454.json
+-rw-------.   1 u0_a359 u0_a359  566 Jun 15 14:06 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_140652.json
+-rw-------.   1 u0_a359 u0_a359  465 Jun 13 04:22 /data/data/com.termux/files/home/orion_guard/installers/deb/usr/share/orion_guard/vpn_profiles/ShadowByte_OVPN.ovpn
+-rw-------.   1 u0_a359 u0_a359  465 Jun 13 04:18 /data/data/com.termux/files/home/orion_guard/vpn_profiles/ShadowByte_OVPN.ovpn
+-rwxrwx---.   1 u0_a359 u0_a359 3.2K Jun  5 11:33 /data/data/com.termux/files/home/qshield_local/AUREON_RELEASE_DENNIS_MAIER (1).zip
+-rwxrwx---.   1 u0_a359 u0_a359 3.2K Jun  5 11:28 /data/data/com.termux/files/home/qshield_local/AUREON_RELEASE_DENNIS_MAIER.zip
+-rw-------.   1 u0_a359 u0_a359  871 Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/lex_sprachlog.py
+-rw-------.   1 u0_a359 u0_a359 1.3K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/lex_startup.py
+-rw-------.   1 u0_a359 u0_a359 3.3K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/lex_supervisor_core.py
+-rw-------.   1 u0_a359 u0_a359 2.6K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/lex_supervisor_menu.py
+-rw-------.   1 u0_a359 u0_a359 2.5K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/lex_supervisor_reaktiv.py
+-rw-------.   1 u0_a359 u0_a359 2.4K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/lex_supervisor_socketlink.py
+-rw-------.   1 u0_a359 u0_a359 3.2K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/lex_supervisor_treewalker.py
+-rw-------.   1 u0_a359 u0_a359  342 Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/shadowcore_logger.py
+-rw-------.   1 u0_a359 u0_a359 2.0K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/shadowcore_receiver.py
+-rw-------.   1 u0_a359 u0_a359   20 Jun 16 18:41 /data/data/com.termux/files/home/quantumshield/lex_change_brain.md
+-rw-------.   1 u0_a359 u0_a359  959 Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/lex_dateisuche.py
+-rw-------.   1 u0_a359 u0_a359 2.0K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/lex_dialog.py
+-rw-------.   1 u0_a359 u0_a359 1.6K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/lex_lernsystem.py
+-rw-------.   1 u0_a359 u0_a359  765 Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/lex_sicherheitslayer.py
+-rw-------.   1 u0_a359 u0_a359 1.2K Jun 16 21:00 /data/data/com.termux/files/home/quantumshield/lex_supervisor.py
+-rw-------.   1 u0_a359 u0_a359    0 Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/lex_to_kali_link.py
+-rw-------.   1 u0_a359 u0_a359  207 Jun 16 18:41 /data/data/com.termux/files/home/quantumshield/shadowcore.service
+-rwx------.   1 u0_a359 u0_a359  243 Jun 15 12:11 /data/data/com.termux/files/home/shadow_launcher.sh
+-rw-------.   1 u0_a359 u0_a359 6.5K Jun 15 12:11 /data/data/com.termux/files/home/shadowbyte_meine_skripte_liste.txt
+-rwx------.   1 u0_a359 u0_a359   29 Jun  7 13:39 /data/data/com.termux/files/home/tools/aureon_autostart_vpnmonster.sh
+/data/data/com.termux/files/home/AUREON:
+/data/data/com.termux/files/home/aureon_hidden:
+/data/data/com.termux/files/home/aureon_hidden/www:
+/data/data/com.termux/files/home/aureon_infinity_manifest:
+/data/data/com.termux/files/home/aureon_infinity_manifest/.git:
+/data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks:
+/data/data/com.termux/files/home/aureon_infinity_manifest/.git/info:
+/data/data/com.termux/files/home/aureon_infinity_manifest/.git/logs:
+/data/data/com.termux/files/home/aureon_infinity_manifest/.git/logs/refs:
+/data/data/com.termux/files/home/aureon_infinity_manifest/.git/logs/refs/heads:
+/data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects:
+/data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/3e:
+/data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/7a:
+/data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/f1:
+/data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/info:
+/data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/pack:
+/data/data/com.termux/files/home/aureon_infinity_manifest/.git/refs:
+/data/data/com.termux/files/home/aureon_infinity_manifest/.git/refs/heads:
+/data/data/com.termux/files/home/aureon_infinity_manifest/.git/refs/tags:
+lrwxrwxrwx. 1 u0_a359 u0_a359   71 Jun 15 13:19 aureon_prepare_android.sh -> /data/data/com.termux/files/home/aureon/setup/aureon_prepare_android.sh
+lrwxrwxrwx. 1 u0_a359 u0_a359   65 Jun 15 13:19 setup_master_autostart.sh -> /data/data/com.termux/files/home/aureon/setup_master_autostart.sh
+lrwxrwxrwx. 1 u0_a359 u0_a359   74 Jun 15 13:19 aureon_shieldstrike_full.sh -> /data/data/com.termux/files/home/aureon/shield/aureon_shieldstrike_full.sh
+lrwxrwxrwx. 1 u0_a359 u0_a359   63 Jun 15 13:19 aureon_menu.sh -> /data/data/com.termux/files/home/aureon/terminal/aureon_menu.sh
+/data/data/com.termux/files/home/lex_modules_core:
+/data/data/com.termux/files/home/lex_modules_core/__pycache__:

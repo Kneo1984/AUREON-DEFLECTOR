@@ -1,0 +1,2 @@
+find /storage/emulated/0 -type d -iname "*shadowbyte*" 2>/dev/null
+mkdir -p /root/AUREON/{assets,logs,modules} && cp "/mnt/c/Users/denni/OneDrive/Bilder/Selbstgemachte_Bilder_KI/KI.png" /root/AUREON/assets/aureon_avatar.png 2>/dev/null || wget -q https://i.imgur.com/kT0JKhk.png -O /root/AUREON/assets/aureon_avatar.png && echo "[START] AUREON Monster-Kontrollzentrum gestartet – $(date)" >> /root/AUREON/logs/aureon_system.log && cat > /root/AUREON/modules/trigger_scanner.py << 'EOF'

@@ -1,0 +1,2337 @@
+[
+    {
+        "name": "lex_sprachmenue.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 1.6K Apr 19 16:50 /data/data/com.termux/files/home/Aurora_Interface_V1_MAIER_CORE/lex_sprachmenue.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "aureon_vpnmonster_cleaned.sh",
+        "pfad": "-rwxrwx---.   1 u0_a359 u0_a359 1.5K Jun  7 13:40 /data/data/com.termux/files/home/downloads/aureon_vpnmonster_cleaned.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "[+]",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359    0 Apr 21 22:35 /data/data/com.termux/files/home/shadowbyte/[+]",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "empathie.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 2.3K Apr 21 11:39 /data/data/com.termux/files/home/shadowbyte/empathie.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "exploitfinder.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 1.5K Apr 22 14:38 /data/data/com.termux/files/home/shadowbyte/exploitfinder.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "help",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359    0 Apr 19 07:54 /data/data/com.termux/files/home/shadowbyte/help",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "index.html",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  45K Apr 17 19:41 /data/data/com.termux/files/home/shadowbyte/index.html",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "system_check.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  690 Apr 21 20:47 /data/data/com.termux/files/home/shadowbyte/kneo_system/diagnose/system_check.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "spracheingabe_modul_termux.cpython-312.pyc",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  931 Apr 21 21:51 /data/data/com.termux/files/home/shadowbyte/kneo_system/spracheingabe/__pycache__/spracheingabe_modul_termux.cpython-312.pyc",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "spracheingabe_modul_termux.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  477 Apr 21 21:43 /data/data/com.termux/files/home/shadowbyte/kneo_system/spracheingabe/spracheingabe_modul_termux.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "spracherkennung_steuerung.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 1.3K Apr 21 21:54 /data/data/com.termux/files/home/shadowbyte/kneo_system/spracheingabe/spracherkennung_steuerung.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "__init__.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  776 Apr 21 21:12 /data/data/com.termux/files/home/shadowbyte/kneo_system/startup/__init__.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "__init__.cpython-312.pyc",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  316 Apr 21 21:18 /data/data/com.termux/files/home/shadowbyte/kneo_system/startup/__pycache__/__init__.cpython-312.pyc",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "start.cpython-312.pyc",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 5.1K Apr 21 21:29 /data/data/com.termux/files/home/shadowbyte/kneo_system/startup/__pycache__/start.cpython-312.pyc",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "start.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 3.5K Apr 21 21:28 /data/data/com.termux/files/home/shadowbyte/kneo_system/startup/start.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "terminal_menue.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 3.2K Apr 21 22:10 /data/data/com.termux/files/home/shadowbyte/kneo_system/terminal/terminal_menue.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "kommandokern.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  513 Apr 21 10:54 /data/data/com.termux/files/home/shadowbyte/kommandokern.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "kpiwatch.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 1.2K Apr 21 11:21 /data/data/com.termux/files/home/shadowbyte/kpiwatch.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "main.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  121 Apr 19 07:57 /data/data/com.termux/files/home/shadowbyte/main.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "modulname.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359    0 Apr 21 11:16 /data/data/com.termux/files/home/shadowbyte/modulname.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "netwatch.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 1.3K Apr 21 11:11 /data/data/com.termux/files/home/shadowbyte/netwatch.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "observer.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 1.1K Apr 21 11:18 /data/data/com.termux/files/home/shadowbyte/observer.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "HEAD",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   21 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/HEAD",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "config",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  270 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/config",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "description",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   73 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/description",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "applypatch-msg.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  509 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/applypatch-msg.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "commit-msg.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  927 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/commit-msg.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "fsmonitor-watchman.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 4.7K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/fsmonitor-watchman.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "post-update.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  220 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/post-update.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pre-applypatch.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  455 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-applypatch.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pre-commit.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 1.7K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-commit.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pre-merge-commit.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  447 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-merge-commit.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pre-push.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 1.4K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-push.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pre-rebase.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 4.9K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-rebase.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pre-receive.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  575 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-receive.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "prepare-commit-msg.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 1.6K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/prepare-commit-msg.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "push-to-checkout.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 2.8K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/push-to-checkout.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "sendemail-validate.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 2.3K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/sendemail-validate.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "update.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 3.6K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/update.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "index",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  592 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/index",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "exclude",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  240 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/info/exclude",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "HEAD",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  196 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs/HEAD",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "main",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  196 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs/refs/heads/main",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "HEAD",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  196 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs/refs/remotes/origin/HEAD",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pack-fc86091148b64c965733e9bb3e9d9f643498359d.idx",
+        "pfad": "-r--------.   1 u0_a359 u0_a359 2.6K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/objects/pack/pack-fc86091148b64c965733e9bb3e9d9f643498359d.idx",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pack-fc86091148b64c965733e9bb3e9d9f643498359d.pack",
+        "pfad": "-r--------.   1 u0_a359 u0_a359 8.5M Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/objects/pack/pack-fc86091148b64c965733e9bb3e9d9f643498359d.pack",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pack-fc86091148b64c965733e9bb3e9d9f643498359d.rev",
+        "pfad": "-r--------.   1 u0_a359 u0_a359  268 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/objects/pack/pack-fc86091148b64c965733e9bb3e9d9f643498359d.rev",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "packed-refs",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  238 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/packed-refs",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "main",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   41 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/refs/heads/main",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "HEAD",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   30 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/refs/remotes/origin/HEAD",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": ".gitignore",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 3.4K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.gitignore",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "LICENSE.md",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 2.0K Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/LICENSE.md",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "README.md",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  601 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/README.md",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "leer.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   23 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/assets/leer.txt",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "quantumshield_release_qr.png",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  951 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/assets/quantumshield_release_qr.png",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "command_core.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 2.0K Apr 15 19:59 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/command_core.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "frequenzfeld.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  483 Apr 15 20:17 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/frequenzfeld.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "lichtschutz.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  641 Apr 14 21:39 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/lichtschutz.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "light_react.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 1.1K Apr 14 23:26 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/light_react.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "netlog.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 5.5K Apr 15 19:53 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/netlog.txt",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "network_defense.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  798 Apr 15 19:01 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/network_defense.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_loop.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  587 Apr 14 21:08 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/shadow_loop.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "start.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   52 Apr 14 20:43 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/start.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "start_qs.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 1.9K Apr 15 19:22 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/start_qs.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "index.html",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  964 Apr 14 20:40 /data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/index.html",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadowbyte.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 2.3K Apr 21 22:13 /data/data/com.termux/files/home/shadowbyte/shadowbyte.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadowroot.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  830 Apr 21 10:55 /data/data/com.termux/files/home/shadowbyte/shadowroot.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "start_kontrollzentrum.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  577 Jun  1 11:37 /data/data/com.termux/files/home/shadowbyte/start_kontrollzentrum.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "starter.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  158 Apr 21 10:53 /data/data/com.termux/files/home/shadowbyte/starter.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadowbyte:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "kneo_system:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kneo_system:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "diagnose:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kneo_system/diagnose:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "spracheingabe:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kneo_system/spracheingabe:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "__pycache__:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kneo_system/spracheingabe/__pycache__:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "startup:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kneo_system/startup:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "__pycache__:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kneo_system/startup/__pycache__:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "terminal:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kneo_system/terminal:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "quantumshield-3.0:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": ".git:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "hooks:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "info:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/info:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "logs:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "refs:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs/refs:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "heads:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs/refs/heads:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "remotes:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs/refs/remotes:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "origin:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs/refs/remotes/origin:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "objects:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/objects:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pack:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/objects/pack:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "refs:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/refs:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "heads:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/refs/heads:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "remotes:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/refs/remotes:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "origin:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/refs/remotes/origin:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "assets:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/assets:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "core:",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "mod.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 112K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.170/src/unix/aix/mod.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "powerpc64.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  19K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.170/src/unix/aix/powerpc64.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "aix:",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.170/src/unix/aix:",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "lexer.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 7.0K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-macros-0.2.18/src/format_description/lexer.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "kind.rs",
+        "pfad": "-rw-------. 1 u0_a359 u0_a359 3.2K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anyhow-1.0.89/src/kind.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "lexer.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 5.2K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo-config2-0.1.26/src/cfg_expr/expr/lexer.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lexer.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.3K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo-config2-0.1.26/src/cfg_expr/tests/lexer.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "kind.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  14K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_builder-4.5.7/src/error/kind.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "lexer.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 9.8K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-0.3.36/src/format_description/parse/lexer.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lexer.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  33K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/minijinja-2.5.0/src/compiler/lexer.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "algorithm.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 6.1K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/algorithm.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "bhcomp.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 6.9K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/bhcomp.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "bignum.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  679 Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/bignum.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "cached.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 2.2K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/cached.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "cached_float80.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 5.7K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/cached_float80.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "digit.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  444 Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/digit.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "errors.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 5.0K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/errors.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "exponent.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.6K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/exponent.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "float.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 5.4K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/float.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "large_powers.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  250 Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/large_powers.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "large_powers32.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  16K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/large_powers32.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "large_powers64.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  16K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/large_powers64.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "math.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  26K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/math.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "mod.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.1K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/mod.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "num.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  11K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/num.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "parse.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 2.2K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/parse.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "rounding.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 7.3K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/rounding.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shift.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.3K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/shift.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "small_powers.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.4K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/small_powers.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lexical.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.1K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "algorithm.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 3.8K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/algorithm.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "exponent.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.3K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/exponent.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "float.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  14K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/float.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "math.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 5.4K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/math.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "num.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.6K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/num.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "parse.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  17K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/parse.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "rounding.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 8.9K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/rounding.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lexical:",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical:",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lexical:",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical:",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "mod.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 113K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.167/src/unix/aix/mod.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "powerpc64.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  21K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.167/src/unix/aix/powerpc64.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "kill.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 3.1K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustix-0.38.41/src/process/kill.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "aix:",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.167/src/unix/aix:",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "aia_test_cert.pem",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.3K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/openssl-0.10.72/test/aia_test_cert.pem",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "encoded_word.rs",
+        "pfad": "-rw-------. 1 u0_a359 u0_a359 1.8K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rfc2047-decoder-1.0.6/src/lexer/encoded_word.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "mod.rs",
+        "pfad": "-rw-------. 1 u0_a359 u0_a359  13K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rfc2047-decoder-1.0.6/src/lexer/mod.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lexer:",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rfc2047-decoder-1.0.6/src/lexer:",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadow",
+        "pfad": "-rw-------. 1 u0_a359 u0_a359   99 Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redox_users-0.4.5/tests/etc/shadow",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "kinda_sorta_dangling.rs",
+        "pfad": "-rw-------. 1 u0_a359 u0_a359 4.1K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yoke-0.7.4/src/kinda_sorta_dangling.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "mod.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 110K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.172/src/unix/aix/mod.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "powerpc64.rs",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  19K Jul 24  2006 /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.172/src/unix/aix/powerpc64.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "aix:",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.172/src/unix/aix:",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "lex_lernkern_v1.py",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.7K Apr 19 17:44 /data/data/com.termux/files/home/lex_lernkern_v1.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_lernkern_vmax.py",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 2.0K Apr 19 17:46 /data/data/com.termux/files/home/lex_lernkern_vmax.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_sprachsystem.py",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.6K Apr 19 17:40 /data/data/com.termux/files/home/lex_sprachsystem.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_wissen_vmax.json",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.1K Jun 13 21:13 /data/data/com.termux/files/home/lex_wissen_vmax.json",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "LEX",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  879 Apr 20 09:44 /data/data/com.termux/files/home/LEX",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "LEX_GLOBAL_INTERFACE.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 4.8K Apr 20 07:43 /data/data/com.termux/files/home/LEX_GLOBAL_INTERFACE.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "LEX_MOBILIUS_MASTER.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 2.9K Apr 20 08:27 /data/data/com.termux/files/home/LEX_MOBILIUS_MASTER.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "LEX_TRUTH_SCANNER.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 1.3K Apr 20 10:28 /data/data/com.termux/files/home/LEX_TRUTH_SCANNER.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_antworten.cpython-312.pyc",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  431 Apr 20 13:23 /data/data/com.termux/files/home/__pycache__/lex_antworten.cpython-312.pyc",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "jotmalex.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  344 Apr 20 06:28 /data/data/com.termux/files/home/jotmalex.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "kifade_log.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  221 Apr 20 10:21 /data/data/com.termux/files/home/kifade_log.txt",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "lex_aktivierung_terminal.sh",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 1.6K Apr 21 09:59 /data/data/com.termux/files/home/lex_aktivierung_terminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_antworten.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  104 Apr 20 06:21 /data/data/com.termux/files/home/lex_antworten.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_global_log.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 1.9K Jun 15 10:13 /data/data/com.termux/files/home/lex_global_log.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "dialog.log",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  785 Apr 19 21:04 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-19/dialog.log",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "inhaltsverzeichnis.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   88 Apr 19 21:03 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-19/inhaltsverzeichnis.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "2025-04-19_20-21.log",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   95 Apr 19 20:21 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-19_20-21.log",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "dialog.log",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  641 Apr 20 10:14 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-20/dialog.log",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "inhaltsverzeichnis.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   66 Apr 20 10:14 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-20/inhaltsverzeichnis.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "dialog.log",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  674 Apr 22 14:39 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-22/dialog.log",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "inhaltsverzeichnis.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   44 Apr 22 14:38 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-22/inhaltsverzeichnis.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "dialog.log",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   36 Apr 26 04:11 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-26/dialog.log",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "dialog.log",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  170 Apr 30 15:15 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-30/dialog.log",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "inhaltsverzeichnis.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   22 Apr 30 15:15 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-30/inhaltsverzeichnis.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "dialog.log",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  504 Jun 15 10:15 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-06-15/dialog.log",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "inhaltsverzeichnis.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   22 Jun 15 10:14 /data/data/com.termux/files/home/lex_herz/gespraeche/2025-06-15/inhaltsverzeichnis.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "letzter_dialog.pfad",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   75 Jun 15 10:14 /data/data/com.termux/files/home/lex_herz/letzter_dialog.pfad",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "basiswissen.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  153 Apr 19 20:15 /data/data/com.termux/files/home/lex_herz/lexikon/basiswissen.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "kneo.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   66 Apr 19 20:15 /data/data/com.termux/files/home/lex_herz/mission/kneo.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   89 Apr 19 20:15 /data/data/com.termux/files/home/lex_herz/mission/lex.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "echo_1745087135.log",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   85 Apr 19 20:26 /data/data/com.termux/files/home/lex_herz/qnsh/echo_1745087135.log",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "schutzstatus.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   21 Apr 19 20:16 /data/data/com.termux/files/home/lex_herz/schutzstatus.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_kommandomen\u00fc_final.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 2.1K Apr 20 05:38 /data/data/com.termux/files/home/lex_kommandomen\u00fc_final.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_quantumkern.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 3.1K Apr 19 21:02 /data/data/com.termux/files/home/lex_quantumkern.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_start_log.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  183 Jun 15 10:07 /data/data/com.termux/files/home/lex_start_log.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_terminal.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 2.8K Apr 20 06:20 /data/data/com.termux/files/home/lex_terminal.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_terminal_menu.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 6.2K Apr 20 05:46 /data/data/com.termux/files/home/lex_terminal_menu.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_terminal_v2.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 3.2K Apr 20 05:56 /data/data/com.termux/files/home/lex_terminal_v2.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_universal_handbuch.md",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 2.5K Apr 20 09:20 /data/data/com.termux/files/home/lex_universal_handbuch.md",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowbyte_vpn_activate.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   40 Apr 20 09:45 /data/data/com.termux/files/home/shadowbyte_vpn_activate.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "ShadowByte_OVPN.ovpn",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  465 Jun 12 20:46 /data/data/com.termux/files/home/vpn_profiles/ShadowByte_OVPN.ovpn",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "lex_sprachloop.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 1.1K Apr 19 19:59 /data/data/com.termux/files/home/whisper.cpp/build/lex_sprachloop.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_ganzheit.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 2.2K Apr 19 20:20 /data/data/com.termux/files/home/whisper.cpp/lex_ganzheit.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_letzterdialog.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  178 Apr 19 20:35 /data/data/com.termux/files/home/whisper.cpp/lex_letzterdialog.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_quantumkern.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 3.1K Apr 19 20:56 /data/data/com.termux/files/home/whisper.cpp/lex_quantumkern.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_replay.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  733 Apr 19 20:36 /data/data/com.termux/files/home/whisper.cpp/lex_replay.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_speak.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 1.1K Apr 19 20:02 /data/data/com.termux/files/home/whisper.cpp/lex_speak.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_speicher.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  688 Apr 19 20:34 /data/data/com.termux/files/home/whisper.cpp/lex_speicher.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_herz:",
+        "pfad": "/data/data/com.termux/files/home/lex_herz:",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "gespraeche:",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche:",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "2025-04-19:",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-19:",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "2025-04-20:",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-20:",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "2025-04-22:",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-22:",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "2025-04-26:",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-26:",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "2025-04-30:",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-30:",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "2025-06-15:",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-06-15:",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lexikon:",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/lexikon:",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "mission:",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/mission:",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "qnsh:",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/qnsh:",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowbyte_workflow.log",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  234 Apr 24 15:18 /data/data/com.termux/files/home/QuantumShield/systemlogs/shadowbyte_workflow.log",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "lex_master_terminal.sh",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 2.3K Apr 24 14:28 /data/data/com.termux/files/home/QuantumShield/terminal/lex_master_terminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowbyte_scan.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 1.6K Apr 24 14:35 /data/data/com.termux/files/home/QuantumShield/terminal/shadowbyte_scan.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "lex_master_terminal.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 2.9K Apr 22 15:11 /data/data/com.termux/files/home/lex_master_terminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "kill_cursors.js",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 1.5K Apr 27 02:34 /data/data/com.termux/files/home/node_modules/mongodb/lib/operations/kill_cursors.js",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "kill_cursors.js.map",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 1003 Apr 27 02:34 /data/data/com.termux/files/home/node_modules/mongodb/lib/operations/kill_cursors.js.map",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "kill_cursors.ts",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 1.8K Apr 27 02:34 /data/data/com.termux/files/home/node_modules/mongodb/src/operations/kill_cursors.ts",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "shadowbyte_xbox.ovpn",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  682 May 28 19:48 /data/data/com.termux/files/home/.shadowvpn/shadowbyte_xbox.ovpn",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "index.html",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  278 Jun  5 13:46 /data/data/com.termux/files/home/aureon/hidden_web/index.html",
+        "kategorie": "core"
+    },
+    {
+        "name": "infinity_monster.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  269 Jun 15 15:53 /data/data/com.termux/files/home/aureon/infinity_monster.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "infinity_start.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359 1.5K Jun 15 21:26 /data/data/com.termux/files/home/aureon/infinity_system/infinity_start.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "inputlog.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 5.7K Jun 15 13:19 /data/data/com.termux/files/home/aureon/inputlog.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "lex_voice_core.py",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  572 Jun 15 16:01 /data/data/com.termux/files/home/aureon/lex_voice_core.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_voice_core.sh",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  331 Jun 15 16:03 /data/data/com.termux/files/home/aureon/lex_voice_core.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_voice_menu.sh",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.2K Jun 15 16:09 /data/data/com.termux/files/home/aureon/lex_voice_menu.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "auto_fusion_20250615_154002.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359   45 Jun 15 15:40 /data/data/com.termux/files/home/aureon/logs/auto_fusion_20250615_154002.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "bootview.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 9.6K Jun 15 15:21 /data/data/com.termux/files/home/aureon/logs/bootview.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "master_setup_log_20250615_131900.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  328 Jun 15 13:19 /data/data/com.termux/files/home/aureon/logs/master_setup_log_20250615_131900.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "module_autofix_20250615_144240.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  151 Jun 15 14:42 /data/data/com.termux/files/home/aureon/logs/module_autofix_20250615_144240.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "module_autofix_20250615_144515.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  620 Jun 15 14:45 /data/data/com.termux/files/home/aureon/logs/module_autofix_20250615_144515.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "module_autofix_20250615_144942.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  485 Jun 15 14:49 /data/data/com.termux/files/home/aureon/logs/module_autofix_20250615_144942.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "module_autofix_20250615_145655.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  410 Jun 15 14:57 /data/data/com.termux/files/home/aureon/logs/module_autofix_20250615_145655.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_final_20250615_152531.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  220 Jun 15 15:25 /data/data/com.termux/files/home/aureon/logs/monster_final_20250615_152531.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_final_20250615_152630.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  220 Jun 15 15:26 /data/data/com.termux/files/home/aureon/logs/monster_final_20250615_152630.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_final_20250615_152724.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  220 Jun 15 15:27 /data/data/com.termux/files/home/aureon/logs/monster_final_20250615_152724.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_final_20250615_154140.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359   52 Jun 15 15:41 /data/data/com.termux/files/home/aureon/logs/monster_final_20250615_154140.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_final_20250615_154223.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359   52 Jun 15 15:42 /data/data/com.termux/files/home/aureon/logs/monster_final_20250615_154223.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_final_20250615_154344.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359   56 Jun 15 15:43 /data/data/com.termux/files/home/aureon/logs/monster_final_20250615_154344.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_fix_20250615_145632.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  335 Jun 15 14:56 /data/data/com.termux/files/home/aureon/logs/monster_fix_20250615_145632.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_fix_20250615_145723.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  335 Jun 15 14:57 /data/data/com.termux/files/home/aureon/logs/monster_fix_20250615_145723.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_fix_20250615_152135.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 8.8K Jun 16 22:23 /data/data/com.termux/files/home/aureon/logs/monster_fix_20250615_152135.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_live_20250615_151419.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  340 Jun 15 15:14 /data/data/com.termux/files/home/aureon/logs/monster_live_20250615_151419.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_live_20250615_151537.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  115 Jun 15 15:15 /data/data/com.termux/files/home/aureon/logs/monster_live_20250615_151537.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_live_20250615_151725.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  262 Jun 15 15:17 /data/data/com.termux/files/home/aureon/logs/monster_live_20250615_151725.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_master_20250615_135135.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 4.4K Jun 15 13:51 /data/data/com.termux/files/home/aureon/logs/monster_master_20250615_135135.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_master_20250615_135500.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 4.8K Jun 15 13:56 /data/data/com.termux/files/home/aureon/logs/monster_master_20250615_135500.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_master_20250615_140359.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 4.7K Jun 15 14:04 /data/data/com.termux/files/home/aureon/logs/monster_master_20250615_140359.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_master_20250615_140756.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 4.5K Jun 15 14:08 /data/data/com.termux/files/home/aureon/logs/monster_master_20250615_140756.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_master_20250615_141457.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  16K Jun 15 14:15 /data/data/com.termux/files/home/aureon/logs/monster_master_20250615_141457.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_master_20250615_141650.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  16K Jun 15 14:17 /data/data/com.termux/files/home/aureon/logs/monster_master_20250615_141650.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_master_20250615_145655.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.3K Jun 15 14:57 /data/data/com.termux/files/home/aureon/logs/monster_master_20250615_145655.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_universal_20250615_150535.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 5.3K Jun 15 15:06 /data/data/com.termux/files/home/aureon/logs/monster_universal_20250615_150535.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "tor_startup.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  40K Jun  6 13:10 /data/data/com.termux/files/home/aureon/logs/tor_startup.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "universal_fix_20250615_144928.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  935 Jun 15 14:49 /data/data/com.termux/files/home/aureon/logs/universal_fix_20250615_144928.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "orion_aufklaerung_guard.py",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.9K Jun  5 11:13 /data/data/com.termux/files/home/aureon/modules/orion_aufklaerung_guard.py",
+        "kategorie": "core"
+    },
+    {
+        "name": "orion_auto_guard.py",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.5K Jun  5 11:06 /data/data/com.termux/files/home/aureon/modules/orion_auto_guard.py",
+        "kategorie": "core"
+    },
+    {
+        "name": "orion_live_guard.py",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.8K Jun  5 11:02 /data/data/com.termux/files/home/aureon/modules/orion_live_guard.py",
+        "kategorie": "core"
+    },
+    {
+        "name": "mtk_apps.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359    0 Jun 15 13:19 /data/data/com.termux/files/home/aureon/mtk_apps.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "pids.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359    0 Jun 15 13:19 /data/data/com.termux/files/home/aureon/pids.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "auth.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359   22 Jun  5 10:34 /data/data/com.termux/files/home/aureon/protect/auth.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "vpnbook_de20_tcp443.ovpn",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  315 Jun  5 10:53 /data/data/com.termux/files/home/aureon/protect/vpnbook_de20_tcp443.ovpn",
+        "kategorie": "core"
+    },
+    {
+        "name": "datei_log.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359    0 Jun  5 10:38 /data/data/com.termux/files/home/aureon/scan/datei_log.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "dienste.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359    0 Jun  5 10:38 /data/data/com.termux/files/home/aureon/scan/dienste.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "inputlog.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 4.7K Jun  5 10:49 /data/data/com.termux/files/home/aureon/scan/inputlog.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "log_zugriffe.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  20K Jun  5 10:38 /data/data/com.termux/files/home/aureon/scan/log_zugriffe.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "mtk_apps.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359    0 Jun  5 10:49 /data/data/com.termux/files/home/aureon/scan/mtk_apps.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "netzwerk.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359    0 Jun  5 10:38 /data/data/com.termux/files/home/aureon/scan/netzwerk.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "orion_log.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359   21 Jun  5 10:44 /data/data/com.termux/files/home/aureon/scan/orion_log.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "pids.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359    0 Jun  5 10:49 /data/data/com.termux/files/home/aureon/scan/pids.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "prozesse.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  746 Jun  5 10:38 /data/data/com.termux/files/home/aureon/scan/prozesse.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "rechte.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359    0 Jun  5 10:38 /data/data/com.termux/files/home/aureon/scan/rechte.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "suspected_overlays.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359    0 Jun  5 10:49 /data/data/com.termux/files/home/aureon/scan/suspected_overlays.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "t packages -f | grep -i mtk >> orion_log.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  16K Jun  5 10:44 /data/data/com.termux/files/home/aureon/scan/t packages -f | grep -i mtk >> orion_log.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "tartet...\"",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  16K Jun  5 10:44 /data/data/com.termux/files/home/aureon/scan/tartet...\"",
+        "kategorie": "core"
+    },
+    {
+        "name": "ys activity activities | grep -i mResumedActivity >> orion_log.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  16K Jun  5 10:44 /data/data/com.termux/files/home/aureon/scan/ys activity activities | grep -i mResumedActivity >> orion_log.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "ys activity services | grep -iE 'service|started|WakeLock' >> orion_log.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  16K Jun  5 10:44 /data/data/com.termux/files/home/aureon/scan/ys activity services | grep -iE 'service|started|WakeLock' >> orion_log.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "ys package | grep -iE 'granted=true' | grep -iE 'SYSTEM_ALERT_WINDOW|RECEIVE_BOOT_COMPLETED|PACKAGE_USAGE_STATS' >> orion_log.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  16K Jun  5 10:44 /data/data/com.termux/files/home/aureon/scan/ys package | grep -iE 'granted=true' | grep -iE 'SYSTEM_ALERT_WINDOW|RECEIVE_BOOT_COMPLETED|PACKAGE_USAGE_STATS' >> orion_log.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "ys window | grep -iE 'SystemAlert|TYPE_APPLICATION_OVERLAY|mCurrentFocus' >> orion_log.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  16K Jun  5 10:44 /data/data/com.termux/files/home/aureon/scan/ys window | grep -iE 'SystemAlert|TYPE_APPLICATION_OVERLAY|mCurrentFocus' >> orion_log.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "zusammenfassung.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  20K Jun  5 10:38 /data/data/com.termux/files/home/aureon/scan/zusammenfassung.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_prepare_android.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  876 Jun 15 14:45 /data/data/com.termux/files/home/aureon/setup/aureon_prepare_android.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "setup_master_autostart.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  241 Jun 15 13:19 /data/data/com.termux/files/home/aureon/setup/setup_master_autostart.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "setup_master_autostart.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359 2.6K Jun 15 13:33 /data/data/com.termux/files/home/aureon/setup_master_autostart.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "shadow_dawn_core.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  882 Jun 15 16:38 /data/data/com.termux/files/home/aureon/shadow_dawn/shadow_dawn_core.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "stealth_log.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 2.8M Jun 15 21:56 /data/data/com.termux/files/home/aureon/shadow_dawn/stealth_log.txt",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "aureon_shieldstrike_full.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359 1.6K Jun  5 10:49 /data/data/com.termux/files/home/aureon/shield/aureon_shieldstrike_full.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "suspected_overlays.txt",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359    0 Jun 15 13:19 /data/data/com.termux/files/home/aureon/suspected_overlays.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "aur_menu.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359 1.3K Jun 15 13:24 /data/data/com.termux/files/home/aureon/terminal/aur_menu.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_menu.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359 1.6K Jun  5 18:12 /data/data/com.termux/files/home/aureon/terminal/aureon_menu.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "jotmalex.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359 2.4K Apr 30 15:22 /data/data/com.termux/files/home/jotmalex.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "aureon_autostart_vpnmonster.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  148 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/aureon_autostart_vpnmonster.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "aureon_vpnmonster_cleaned.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  146 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/aureon_vpnmonster_cleaned.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "jotmalex.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  129 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/jotmalex.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "jotmalex_protokoll.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359   98 Jun 15 10:53 /data/data/com.termux/files/home/kneo_lex_omnia/jotmalex_protokoll.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_aktivierung_terminal.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  145 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_aktivierung_terminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_aktivierungsterminal.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  104 Jun 15 10:53 /data/data/com.termux/files/home/kneo_lex_omnia/lex_aktivierungsterminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_antworten_modul.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359   60 Jun 15 12:17 /data/data/com.termux/files/home/kneo_lex_omnia/lex_antworten_modul.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_master_terminal.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  463 Jun  1 19:35 /data/data/com.termux/files/home/kneo_lex_omnia/lex_core/lex_master_terminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_terminal.py",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 1.2K Jun  1 11:15 /data/data/com.termux/files/home/kneo_lex_omnia/lex_core/lex_terminal.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_ganzheit.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  133 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_ganzheit.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_kommandomen\u00fc_final.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  103 Jun 15 10:53 /data/data/com.termux/files/home/kneo_lex_omnia/lex_kommandomen\u00fc_final.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_letzterdialog.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  138 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_letzterdialog.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_master_terminal.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  140 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_master_terminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_quantumkern.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  136 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_quantumkern.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_replay.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  131 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_replay.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_speak.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  130 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_speak.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_speicher.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  133 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_speicher.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_sprachsystem.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359   57 Jun 15 12:17 /data/data/com.termux/files/home/kneo_lex_omnia/lex_sprachsystem.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_sprachterminal_v2.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  101 Jun 15 10:53 /data/data/com.termux/files/home/kneo_lex_omnia/lex_sprachterminal_v2.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_supervisor_terminal.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  144 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_supervisor_terminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_terminal_menu.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359   97 Jun 15 10:53 /data/data/com.termux/files/home/kneo_lex_omnia/lex_terminal_menu.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_terminal_python.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359   99 Jun 15 10:53 /data/data/com.termux/files/home/kneo_lex_omnia/lex_terminal_python.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_terminal_v2.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  136 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_terminal_v2.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_truth_scanner.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359   58 Jun 15 12:17 /data/data/com.termux/files/home/kneo_lex_omnia/lex_truth_scanner.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_vpn_control.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  136 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/lex_vpn_control.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadow_launcher.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  136 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/shadow_launcher.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowbyte.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  131 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/shadowbyte.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowbyte_vpn.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359   94 Jun 15 10:53 /data/data/com.termux/files/home/kneo_lex_omnia/shadowbyte_vpn.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowfinal.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  132 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/shadowfinal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowroot.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  131 Jun 15 12:11 /data/data/com.termux/files/home/kneo_lex_omnia/shadowroot.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "airos_6_x.py",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 3.8K Apr 29 18:46 /data/data/com.termux/files/home/routersploit/routersploit/modules/exploits/routers/ubiquiti/airos_6_x.py",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "magisk.apk",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  11M Apr 11  2023 /data/data/com.termux/files/home/shadowfinal/magisk.apk",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "magisk.zip",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  11M Apr 30 15:59 /data/data/com.termux/files/home/shadowfinal/magisk.zip",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "rootlog_2025-04-30.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359   43 Apr 30 15:59 /data/data/com.termux/files/home/shadowfinal/rootlog_2025-04-30.log",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadowreport.log",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359 2.1K Apr 30 18:13 /data/data/com.termux/files/home/shadowreport.log",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "magisk.apk",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  11M Apr 11  2023 /data/data/com.termux/files/home/shadowroot/magisk.apk",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "magisk.zip",
+        "pfad": "-rw-------.  1 u0_a359 u0_a359  11M Apr 30 15:54 /data/data/com.termux/files/home/shadowroot/magisk.zip",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadowfinal.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359 1.5K Apr 30 15:52 /data/data/com.termux/files/home/shadowroot/shadowfinal.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadowroot.sh",
+        "pfad": "-rwx------.  1 u0_a359 u0_a359  999 Apr 30 15:51 /data/data/com.termux/files/home/shadowroot/shadowroot.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "aureon:",
+        "pfad": "/data/data/com.termux/files/home/aureon:",
+        "kategorie": "core"
+    },
+    {
+        "name": "aufklaerung:",
+        "pfad": "/data/data/com.termux/files/home/aureon/aufklaerung:",
+        "kategorie": "core"
+    },
+    {
+        "name": "hidden_web:",
+        "pfad": "/data/data/com.termux/files/home/aureon/hidden_web:",
+        "kategorie": "core"
+    },
+    {
+        "name": "infinity_system:",
+        "pfad": "/data/data/com.termux/files/home/aureon/infinity_system:",
+        "kategorie": "core"
+    },
+    {
+        "name": "logs:",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs:",
+        "kategorie": "core"
+    },
+    {
+        "name": "modules:",
+        "pfad": "/data/data/com.termux/files/home/aureon/modules:",
+        "kategorie": "core"
+    },
+    {
+        "name": "protect:",
+        "pfad": "/data/data/com.termux/files/home/aureon/protect:",
+        "kategorie": "core"
+    },
+    {
+        "name": "scan:",
+        "pfad": "/data/data/com.termux/files/home/aureon/scan:",
+        "kategorie": "core"
+    },
+    {
+        "name": "setup:",
+        "pfad": "/data/data/com.termux/files/home/aureon/setup:",
+        "kategorie": "core"
+    },
+    {
+        "name": "shadow_dawn:",
+        "pfad": "/data/data/com.termux/files/home/aureon/shadow_dawn:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shield:",
+        "pfad": "/data/data/com.termux/files/home/aureon/shield:",
+        "kategorie": "core"
+    },
+    {
+        "name": "terminal:",
+        "pfad": "/data/data/com.termux/files/home/aureon/terminal:",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_release:",
+        "pfad": "/data/data/com.termux/files/home/aureon_release:",
+        "kategorie": "core"
+    },
+    {
+        "name": "lex_core:",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_core:",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowfinal:",
+        "pfad": "/data/data/com.termux/files/home/shadowfinal:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadowroot:",
+        "pfad": "/data/data/com.termux/files/home/shadowroot:",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "lex_input.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359    1 Jun  7 14:18 /data/data/com.termux/files/home/.aurion_core/lex_input.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_gui_interface.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  871 Jun  7 13:58 /data/data/com.termux/files/home/.aurion_gui/lex_gui_interface.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_vpn_control.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  548 Jun  7 14:00 /data/data/com.termux/files/home/.aurion_gui/lex_vpn_control.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_supervisor_terminal.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  409 Jun  7 18:19 /data/data/com.termux/files/home/.aurion_lex/lex_supervisor_terminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_vpn_control.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  548 Jun  7 13:56 /data/data/com.termux/files/home/.aurion_vpn/lex_vpn_control.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "aureon_ai_modules.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359    0 Jun 17 12:24 /data/data/com.termux/files/home/AUREON/aureon_ai_modules.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_system_map.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 8.7M Jun 17 12:25 /data/data/com.termux/files/home/AUREON/aureon_system_map.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_ethic_core_vollmacht.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 1.9K Jun  8 17:03 /data/data/com.termux/files/home/aureon_ethic_core_vollmacht.py",
+        "kategorie": "core"
+    },
+    {
+        "name": "tor.log",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 3.8K Jun  5 11:56 /data/data/com.termux/files/home/aureon_hidden/tor.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "webserver.log",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359    0 Jun  5 11:48 /data/data/com.termux/files/home/aureon_hidden/webserver.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "COMMIT_EDITMSG",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   44 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/COMMIT_EDITMSG",
+        "kategorie": "core"
+    },
+    {
+        "name": "HEAD",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   21 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/HEAD",
+        "kategorie": "core"
+    },
+    {
+        "name": "config",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  219 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/config",
+        "kategorie": "core"
+    },
+    {
+        "name": "description",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   73 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/description",
+        "kategorie": "core"
+    },
+    {
+        "name": "applypatch-msg.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  509 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/applypatch-msg.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "commit-msg.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  927 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/commit-msg.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "fsmonitor-watchman.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 4.7K Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/fsmonitor-watchman.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "post-update.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  220 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/post-update.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "pre-applypatch.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  455 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-applypatch.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "pre-commit.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 1.7K Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-commit.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "pre-merge-commit.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  447 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-merge-commit.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "pre-push.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 1.4K Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-push.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "pre-rebase.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 4.9K Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-rebase.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "pre-receive.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  575 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-receive.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "prepare-commit-msg.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 1.6K Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/prepare-commit-msg.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "push-to-checkout.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 2.8K Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/push-to-checkout.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "sendemail-validate.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 2.3K Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/sendemail-validate.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "update.sample",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 3.6K Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/update.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "index",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  137 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/index",
+        "kategorie": "core"
+    },
+    {
+        "name": "exclude",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  240 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/info/exclude",
+        "kategorie": "core"
+    },
+    {
+        "name": "HEAD",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  570 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/logs/HEAD",
+        "kategorie": "core"
+    },
+    {
+        "name": "main",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  383 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/logs/refs/heads/main",
+        "kategorie": "core"
+    },
+    {
+        "name": "71d2fd5db59e3ebc00c78db9703cf61c92d71b",
+        "pfad": "-r--------.   1 u0_a359 u0_a359  248 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/3e/71d2fd5db59e3ebc00c78db9703cf61c92d71b",
+        "kategorie": "core"
+    },
+    {
+        "name": "f7a395a12a17de1f09a0a7dad5624dfa1e1e04",
+        "pfad": "-r--------.   1 u0_a359 u0_a359  166 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/7a/f7a395a12a17de1f09a0a7dad5624dfa1e1e04",
+        "kategorie": "core"
+    },
+    {
+        "name": "de7c2636e7ed3e0df3a23424387ae6a833b2c4",
+        "pfad": "-r--------.   1 u0_a359 u0_a359   54 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/f1/de7c2636e7ed3e0df3a23424387ae6a833b2c4",
+        "kategorie": "core"
+    },
+    {
+        "name": "main",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   41 Jun 15 21:54 /data/data/com.termux/files/home/aureon_infinity_manifest/.git/refs/heads/main",
+        "kategorie": "core"
+    },
+    {
+        "name": "README.md",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  312 Jun 15 21:53 /data/data/com.termux/files/home/aureon_infinity_manifest/README.md",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_prepare_android.sh",
+        "pfad": "lrwxrwxrwx.   1 u0_a359 u0_a359   71 Jun 15 13:19 /data/data/com.termux/files/home/infinity_core/misc/aureon_prepare_android.sh -> /data/data/com.termux/files/home/aureon/setup/aureon_prepare_android.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "setup_master_autostart.sh",
+        "pfad": "lrwxrwxrwx.   1 u0_a359 u0_a359   65 Jun 15 13:19 /data/data/com.termux/files/home/infinity_core/misc/setup_master_autostart.sh -> /data/data/com.termux/files/home/aureon/setup_master_autostart.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_shieldstrike_full.sh",
+        "pfad": "lrwxrwxrwx.   1 u0_a359 u0_a359   74 Jun 15 13:19 /data/data/com.termux/files/home/infinity_core/security/aureon_shieldstrike_full.sh -> /data/data/com.termux/files/home/aureon/shield/aureon_shieldstrike_full.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_menu.sh",
+        "pfad": "lrwxrwxrwx.   1 u0_a359 u0_a359   63 Jun 15 13:19 /data/data/com.termux/files/home/infinity_core/ui/aureon_menu.sh -> /data/data/com.termux/files/home/aureon/terminal/aureon_menu.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "say_hub.cpython-312.pyc",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 2.5K Jun 13 22:01 /data/data/com.termux/files/home/lex_modules_core/__pycache__/say_hub.cpython-312.pyc",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "say_hub.py",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 1.1K Jun 13 22:01 /data/data/com.termux/files/home/lex_modules_core/say_hub.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "say_hub_20250613_220119.bak.py",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359 1.3K Jun 13 21:59 /data/data/com.termux/files/home/lex_modules_core/say_hub_20250613_220119.bak.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "say_hub_diagnose_link.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  163 Jun 13 22:33 /data/data/com.termux/files/home/lex_modules_core/say_hub_diagnose_link.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "aureon_autostart_20250615.log",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  348 Jun 15 13:22 /data/data/com.termux/files/home/logs/aureon_autostart_20250615.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "shadow_diag_report_20250613_224437.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  494 Jun 13 22:44 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_224437.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_224749.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  487 Jun 13 22:47 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_224749.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_225137.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  620 Jun 13 22:51 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_225137.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_225425.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  620 Jun 13 22:54 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_225425.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_225701.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  620 Jun 13 22:57 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_225701.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_231637.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  527 Jun 13 23:16 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_231637.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_231720.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  527 Jun 13 23:17 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_231720.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_231746.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  565 Jun 13 23:17 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_231746.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_231923.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  565 Jun 13 23:19 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_231923.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_233313.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  565 Jun 13 23:33 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233313.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_233323.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  565 Jun 13 23:33 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233323.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_233534.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  565 Jun 13 23:35 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233534.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_233609.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  565 Jun 13 23:36 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233609.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_233659.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  510 Jun 13 23:37 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233659.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_233910.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  565 Jun 13 23:39 /data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233910.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250614_190007.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  564 Jun 14 19:00 /data/data/com.termux/files/home/logs/shadow_diag_report_20250614_190007.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250614_190018.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  564 Jun 14 19:00 /data/data/com.termux/files/home/logs/shadow_diag_report_20250614_190018.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250614_190230.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  564 Jun 14 19:02 /data/data/com.termux/files/home/logs/shadow_diag_report_20250614_190230.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_085919.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  565 Jun 15 08:59 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_085919.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_085935.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  566 Jun 15 08:59 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_085935.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_090147.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  566 Jun 15 09:01 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_090147.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_090712.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  566 Jun 15 09:07 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_090712.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_090718.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  566 Jun 15 09:07 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_090718.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_101742.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  565 Jun 15 10:17 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_101742.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_101745.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  510 Jun 15 10:17 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_101745.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_101907.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  566 Jun 15 10:19 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_101907.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_135645.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  565 Jun 15 13:56 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_135645.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_135651.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  566 Jun 15 13:56 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_135651.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_140228.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  565 Jun 15 14:02 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_140228.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_140441.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  566 Jun 15 14:04 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_140441.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_140448.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  565 Jun 15 14:04 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_140448.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_140454.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  566 Jun 15 14:04 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_140454.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_140652.json",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  566 Jun 15 14:06 /data/data/com.termux/files/home/logs/shadow_diag_report_20250615_140652.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "ShadowByte_OVPN.ovpn",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  465 Jun 13 04:22 /data/data/com.termux/files/home/orion_guard/installers/deb/usr/share/orion_guard/vpn_profiles/ShadowByte_OVPN.ovpn",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "ShadowByte_OVPN.ovpn",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  465 Jun 13 04:18 /data/data/com.termux/files/home/orion_guard/vpn_profiles/ShadowByte_OVPN.ovpn",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "AUREON_RELEASE_DENNIS_MAIER (1).zip",
+        "pfad": "-rwxrwx---.   1 u0_a359 u0_a359 3.2K Jun  5 11:33 /data/data/com.termux/files/home/qshield_local/AUREON_RELEASE_DENNIS_MAIER (1).zip",
+        "kategorie": "core"
+    },
+    {
+        "name": "AUREON_RELEASE_DENNIS_MAIER.zip",
+        "pfad": "-rwxrwx---.   1 u0_a359 u0_a359 3.2K Jun  5 11:28 /data/data/com.termux/files/home/qshield_local/AUREON_RELEASE_DENNIS_MAIER.zip",
+        "kategorie": "core"
+    },
+    {
+        "name": "lex_sprachlog.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  871 Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/lex_sprachlog.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_startup.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 1.3K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/lex_startup.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_supervisor_core.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 3.3K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/lex_supervisor_core.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_supervisor_menu.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 2.6K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/lex_supervisor_menu.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_supervisor_reaktiv.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 2.5K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/lex_supervisor_reaktiv.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_supervisor_socketlink.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 2.4K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/lex_supervisor_socketlink.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_supervisor_treewalker.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 3.2K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/lex_supervisor_treewalker.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowcore_logger.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  342 Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/shadowcore_logger.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadowcore_receiver.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 2.0K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/core/shadowcore_receiver.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "lex_change_brain.md",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359   20 Jun 16 18:41 /data/data/com.termux/files/home/quantumshield/lex_change_brain.md",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_dateisuche.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  959 Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/lex_dateisuche.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_dialog.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 2.0K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/lex_dialog.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_lernsystem.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 1.6K Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/lex_lernsystem.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_sicherheitslayer.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  765 Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/lex_sicherheitslayer.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_supervisor.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 1.2K Jun 16 21:00 /data/data/com.termux/files/home/quantumshield/lex_supervisor.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_to_kali_link.py",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359    0 Jun 16 20:48 /data/data/com.termux/files/home/quantumshield/lex_to_kali_link.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowcore.service",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359  207 Jun 16 18:41 /data/data/com.termux/files/home/quantumshield/shadowcore.service",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_launcher.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359  243 Jun 15 12:11 /data/data/com.termux/files/home/shadow_launcher.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadowbyte_meine_skripte_liste.txt",
+        "pfad": "-rw-------.   1 u0_a359 u0_a359 6.5K Jun 15 12:11 /data/data/com.termux/files/home/shadowbyte_meine_skripte_liste.txt",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "aureon_autostart_vpnmonster.sh",
+        "pfad": "-rwx------.   1 u0_a359 u0_a359   29 Jun  7 13:39 /data/data/com.termux/files/home/tools/aureon_autostart_vpnmonster.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "AUREON:",
+        "pfad": "/data/data/com.termux/files/home/AUREON:",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_hidden:",
+        "pfad": "/data/data/com.termux/files/home/aureon_hidden:",
+        "kategorie": "core"
+    },
+    {
+        "name": "www:",
+        "pfad": "/data/data/com.termux/files/home/aureon_hidden/www:",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_infinity_manifest:",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest:",
+        "kategorie": "core"
+    },
+    {
+        "name": ".git:",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git:",
+        "kategorie": "core"
+    },
+    {
+        "name": "hooks:",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks:",
+        "kategorie": "core"
+    },
+    {
+        "name": "info:",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/info:",
+        "kategorie": "core"
+    },
+    {
+        "name": "logs:",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/logs:",
+        "kategorie": "core"
+    },
+    {
+        "name": "refs:",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/logs/refs:",
+        "kategorie": "core"
+    },
+    {
+        "name": "heads:",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/logs/refs/heads:",
+        "kategorie": "core"
+    },
+    {
+        "name": "objects:",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects:",
+        "kategorie": "core"
+    },
+    {
+        "name": "3e:",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/3e:",
+        "kategorie": "core"
+    },
+    {
+        "name": "7a:",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/7a:",
+        "kategorie": "core"
+    },
+    {
+        "name": "f1:",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/f1:",
+        "kategorie": "core"
+    },
+    {
+        "name": "info:",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/info:",
+        "kategorie": "core"
+    },
+    {
+        "name": "pack:",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/pack:",
+        "kategorie": "core"
+    },
+    {
+        "name": "refs:",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/refs:",
+        "kategorie": "core"
+    },
+    {
+        "name": "heads:",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/refs/heads:",
+        "kategorie": "core"
+    },
+    {
+        "name": "tags:",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/refs/tags:",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_prepare_android.sh",
+        "pfad": "lrwxrwxrwx. 1 u0_a359 u0_a359   71 Jun 15 13:19 aureon_prepare_android.sh -> /data/data/com.termux/files/home/aureon/setup/aureon_prepare_android.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "setup_master_autostart.sh",
+        "pfad": "lrwxrwxrwx. 1 u0_a359 u0_a359   65 Jun 15 13:19 setup_master_autostart.sh -> /data/data/com.termux/files/home/aureon/setup_master_autostart.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_shieldstrike_full.sh",
+        "pfad": "lrwxrwxrwx. 1 u0_a359 u0_a359   74 Jun 15 13:19 aureon_shieldstrike_full.sh -> /data/data/com.termux/files/home/aureon/shield/aureon_shieldstrike_full.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_menu.sh",
+        "pfad": "lrwxrwxrwx. 1 u0_a359 u0_a359   63 Jun 15 13:19 aureon_menu.sh -> /data/data/com.termux/files/home/aureon/terminal/aureon_menu.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "lex_modules_core:",
+        "pfad": "/data/data/com.termux/files/home/lex_modules_core:",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "__pycache__:",
+        "pfad": "/data/data/com.termux/files/home/lex_modules_core/__pycache__:",
+        "kategorie": "sprachsteuerung"
+    }
+]

@@ -1,0 +1,7 @@
+AUREON – First Human-Ethical Autonomous Shield System
+Erfinder: Dennis Maier
+Ethik: Schutz vor Überwachung, Missbrauch, Kommerzialisierung. Lokal. Autonom. Frei. Für Menschen, Tiere, Natur.
+Lizenz: Open-Ethic Software License (AGPLv3 + Human‑First-Clause)
+Datum: 2025-07-07 04:38:34
+Signatur AUREON Firewall: 01fb10824150a6513b335a81c6dfc588ae32e9e37538c4a6e43c3b87c036c65c9f192247b429ec6d73d45f1168a352851f76bf63ec5d7c84226daf63ece4a41e
+Manifest-Signatur: 2eacfaff5b0fa71b7aa9963cfe133658e4c3ba7f0f3683055b4cb0169cfb7f948025170db8d08ac838593579b3a5c9bac8c060df144e347c045ee5d7c71a8e72

@@ -1,0 +1,1912 @@
+[
+    {
+        "name": "lex_sprachmenue.py",
+        "pfad": "/data/data/com.termux/files/home/Aurora_Interface_V1_MAIER_CORE/lex_sprachmenue.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "aureon_vpnmonster_cleaned.sh",
+        "pfad": "/data/data/com.termux/files/home/downloads/aureon_vpnmonster_cleaned.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "[+]",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/[+]",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "empathie.sh",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/empathie.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "exploitfinder.sh",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/exploitfinder.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "help",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/help",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "index.html",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/index.html",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "system_check.py",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kneo_system/diagnose/system_check.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "spracheingabe_modul_termux.cpython-312.pyc",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kneo_system/spracheingabe/__pycache__/spracheingabe_modul_termux.cpython-312.pyc",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "spracheingabe_modul_termux.py",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kneo_system/spracheingabe/spracheingabe_modul_termux.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "spracherkennung_steuerung.py",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kneo_system/spracheingabe/spracherkennung_steuerung.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "__init__.py",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kneo_system/startup/__init__.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "__init__.cpython-312.pyc",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kneo_system/startup/__pycache__/__init__.cpython-312.pyc",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "start.cpython-312.pyc",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kneo_system/startup/__pycache__/start.cpython-312.pyc",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "start.py",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kneo_system/startup/start.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "terminal_menue.py",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kneo_system/terminal/terminal_menue.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "kommandokern.sh",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kommandokern.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "kpiwatch.sh",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/kpiwatch.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "main.py",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/main.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "modulname.sh",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/modulname.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "netwatch.sh",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/netwatch.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "observer.sh",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/observer.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "HEAD",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/HEAD",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "config",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/config",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "description",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/description",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "applypatch-msg.sample",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/applypatch-msg.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "commit-msg.sample",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/commit-msg.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "fsmonitor-watchman.sample",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/fsmonitor-watchman.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "post-update.sample",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/post-update.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pre-applypatch.sample",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-applypatch.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pre-commit.sample",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-commit.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pre-merge-commit.sample",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-merge-commit.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pre-push.sample",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-push.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pre-rebase.sample",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-rebase.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pre-receive.sample",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/pre-receive.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "prepare-commit-msg.sample",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/prepare-commit-msg.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "push-to-checkout.sample",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/push-to-checkout.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "sendemail-validate.sample",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/sendemail-validate.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "update.sample",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/hooks/update.sample",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "index",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/index",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "exclude",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/info/exclude",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "HEAD",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs/HEAD",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "main",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs/refs/heads/main",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "HEAD",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/logs/refs/remotes/origin/HEAD",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pack-fc86091148b64c965733e9bb3e9d9f643498359d.idx",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/objects/pack/pack-fc86091148b64c965733e9bb3e9d9f643498359d.idx",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pack-fc86091148b64c965733e9bb3e9d9f643498359d.pack",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/objects/pack/pack-fc86091148b64c965733e9bb3e9d9f643498359d.pack",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "pack-fc86091148b64c965733e9bb3e9d9f643498359d.rev",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/objects/pack/pack-fc86091148b64c965733e9bb3e9d9f643498359d.rev",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "packed-refs",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/packed-refs",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "main",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/refs/heads/main",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "HEAD",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.git/refs/remotes/origin/HEAD",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": ".gitignore",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/.gitignore",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "LICENSE.md",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/LICENSE.md",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "README.md",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/README.md",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "leer.txt",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/assets/leer.txt",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "quantumshield_release_qr.png",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/assets/quantumshield_release_qr.png",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "command_core.py",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/command_core.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "frequenzfeld.py",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/frequenzfeld.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "lichtschutz.py",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/lichtschutz.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "light_react.py",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/light_react.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "netlog.txt",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/netlog.txt",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "network_defense.py",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/network_defense.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_loop.py",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/shadow_loop.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "start.py",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/start.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "start_qs.sh",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/core/start_qs.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "index.html",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/quantumshield-3.0/index.html",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadowbyte.sh",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/shadowbyte.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadowroot.sh",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/shadowroot.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "start_kontrollzentrum.sh",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/start_kontrollzentrum.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "starter.sh",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte/starter.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "mod.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.170/src/unix/aix/mod.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "powerpc64.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.170/src/unix/aix/powerpc64.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "lexer.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-macros-0.2.18/src/format_description/lexer.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "kind.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anyhow-1.0.89/src/kind.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "lexer.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo-config2-0.1.26/src/cfg_expr/expr/lexer.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lexer.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo-config2-0.1.26/src/cfg_expr/tests/lexer.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "kind.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_builder-4.5.7/src/error/kind.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "lexer.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-0.3.36/src/format_description/parse/lexer.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lexer.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/minijinja-2.5.0/src/compiler/lexer.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "algorithm.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/algorithm.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "bhcomp.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/bhcomp.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "bignum.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/bignum.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "cached.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/cached.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "cached_float80.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/cached_float80.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "digit.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/digit.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "errors.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/errors.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "exponent.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/exponent.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "float.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/float.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "large_powers.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/large_powers.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "large_powers32.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/large_powers32.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "large_powers64.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/large_powers64.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "math.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/math.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "mod.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/mod.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "num.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/num.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "parse.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/parse.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "rounding.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/rounding.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shift.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/shift.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "small_powers.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/src/lexical/small_powers.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lexical.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "algorithm.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/algorithm.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "exponent.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/exponent.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "float.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/float.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "math.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/math.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "num.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/num.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "parse.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/parse.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "rounding.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-1.0.135/tests/lexical/rounding.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "mod.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.167/src/unix/aix/mod.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "powerpc64.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.167/src/unix/aix/powerpc64.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "kill.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustix-0.38.41/src/process/kill.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "aia_test_cert.pem",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/openssl-0.10.72/test/aia_test_cert.pem",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "encoded_word.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rfc2047-decoder-1.0.6/src/lexer/encoded_word.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "mod.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rfc2047-decoder-1.0.6/src/lexer/mod.rs",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadow",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/redox_users-0.4.5/tests/etc/shadow",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "kinda_sorta_dangling.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yoke-0.7.4/src/kinda_sorta_dangling.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "mod.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.172/src/unix/aix/mod.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "powerpc64.rs",
+        "pfad": "/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.172/src/unix/aix/powerpc64.rs",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "lex_lernkern_v1.py",
+        "pfad": "/data/data/com.termux/files/home/lex_lernkern_v1.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_lernkern_vmax.py",
+        "pfad": "/data/data/com.termux/files/home/lex_lernkern_vmax.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_sprachsystem.py",
+        "pfad": "/data/data/com.termux/files/home/lex_sprachsystem.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_wissen_vmax.json",
+        "pfad": "/data/data/com.termux/files/home/lex_wissen_vmax.json",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "LEX",
+        "pfad": "/data/data/com.termux/files/home/LEX",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "LEX_GLOBAL_INTERFACE.py",
+        "pfad": "/data/data/com.termux/files/home/LEX_GLOBAL_INTERFACE.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "LEX_MOBILIUS_MASTER.py",
+        "pfad": "/data/data/com.termux/files/home/LEX_MOBILIUS_MASTER.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "LEX_TRUTH_SCANNER.py",
+        "pfad": "/data/data/com.termux/files/home/LEX_TRUTH_SCANNER.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_antworten.cpython-312.pyc",
+        "pfad": "/data/data/com.termux/files/home/__pycache__/lex_antworten.cpython-312.pyc",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "jotmalex.py",
+        "pfad": "/data/data/com.termux/files/home/jotmalex.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "kifade_log.txt",
+        "pfad": "/data/data/com.termux/files/home/kifade_log.txt",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "lex_aktivierung_terminal.sh",
+        "pfad": "/data/data/com.termux/files/home/lex_aktivierung_terminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_antworten.py",
+        "pfad": "/data/data/com.termux/files/home/lex_antworten.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_global_log.txt",
+        "pfad": "/data/data/com.termux/files/home/lex_global_log.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "dialog.log",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-19/dialog.log",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "inhaltsverzeichnis.txt",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-19/inhaltsverzeichnis.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "2025-04-19_20-21.log",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-19_20-21.log",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "dialog.log",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-20/dialog.log",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "inhaltsverzeichnis.txt",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-20/inhaltsverzeichnis.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "dialog.log",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-22/dialog.log",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "inhaltsverzeichnis.txt",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-22/inhaltsverzeichnis.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "dialog.log",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-26/dialog.log",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "dialog.log",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-30/dialog.log",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "inhaltsverzeichnis.txt",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-04-30/inhaltsverzeichnis.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "dialog.log",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-06-15/dialog.log",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "inhaltsverzeichnis.txt",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/gespraeche/2025-06-15/inhaltsverzeichnis.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "letzter_dialog.pfad",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/letzter_dialog.pfad",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "basiswissen.txt",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/lexikon/basiswissen.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "kneo.txt",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/mission/kneo.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex.txt",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/mission/lex.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "echo_1745087135.log",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/qnsh/echo_1745087135.log",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "schutzstatus.txt",
+        "pfad": "/data/data/com.termux/files/home/lex_herz/schutzstatus.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_kommandomen\u00fc_final.sh",
+        "pfad": "/data/data/com.termux/files/home/lex_kommandomen\u00fc_final.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_quantumkern.sh",
+        "pfad": "/data/data/com.termux/files/home/lex_quantumkern.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_start_log.txt",
+        "pfad": "/data/data/com.termux/files/home/lex_start_log.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_terminal.py",
+        "pfad": "/data/data/com.termux/files/home/lex_terminal.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_terminal_menu.sh",
+        "pfad": "/data/data/com.termux/files/home/lex_terminal_menu.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_terminal_v2.sh",
+        "pfad": "/data/data/com.termux/files/home/lex_terminal_v2.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_universal_handbuch.md",
+        "pfad": "/data/data/com.termux/files/home/lex_universal_handbuch.md",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowbyte_vpn_activate.py",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte_vpn_activate.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "ShadowByte_OVPN.ovpn",
+        "pfad": "/data/data/com.termux/files/home/vpn_profiles/ShadowByte_OVPN.ovpn",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "lex_sprachloop.sh",
+        "pfad": "/data/data/com.termux/files/home/whisper.cpp/build/lex_sprachloop.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_ganzheit.sh",
+        "pfad": "/data/data/com.termux/files/home/whisper.cpp/lex_ganzheit.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_letzterdialog.sh",
+        "pfad": "/data/data/com.termux/files/home/whisper.cpp/lex_letzterdialog.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_quantumkern.sh",
+        "pfad": "/data/data/com.termux/files/home/whisper.cpp/lex_quantumkern.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_replay.sh",
+        "pfad": "/data/data/com.termux/files/home/whisper.cpp/lex_replay.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_speak.sh",
+        "pfad": "/data/data/com.termux/files/home/whisper.cpp/lex_speak.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_speicher.sh",
+        "pfad": "/data/data/com.termux/files/home/whisper.cpp/lex_speicher.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowbyte_workflow.log",
+        "pfad": "/data/data/com.termux/files/home/QuantumShield/systemlogs/shadowbyte_workflow.log",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "lex_master_terminal.sh",
+        "pfad": "/data/data/com.termux/files/home/QuantumShield/terminal/lex_master_terminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowbyte_scan.sh",
+        "pfad": "/data/data/com.termux/files/home/QuantumShield/terminal/shadowbyte_scan.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "lex_master_terminal.sh",
+        "pfad": "/data/data/com.termux/files/home/lex_master_terminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "kill_cursors.js",
+        "pfad": "/data/data/com.termux/files/home/node_modules/mongodb/lib/operations/kill_cursors.js",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "kill_cursors.js.map",
+        "pfad": "/data/data/com.termux/files/home/node_modules/mongodb/lib/operations/kill_cursors.js.map",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "kill_cursors.ts",
+        "pfad": "/data/data/com.termux/files/home/node_modules/mongodb/src/operations/kill_cursors.ts",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "shadowbyte_xbox.ovpn",
+        "pfad": "/data/data/com.termux/files/home/.shadowvpn/shadowbyte_xbox.ovpn",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "index.html",
+        "pfad": "/data/data/com.termux/files/home/aureon/hidden_web/index.html",
+        "kategorie": "core"
+    },
+    {
+        "name": "infinity_monster.sh",
+        "pfad": "/data/data/com.termux/files/home/aureon/infinity_monster.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "infinity_start.sh",
+        "pfad": "/data/data/com.termux/files/home/aureon/infinity_system/infinity_start.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "inputlog.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/inputlog.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "lex_voice_core.py",
+        "pfad": "/data/data/com.termux/files/home/aureon/lex_voice_core.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_voice_core.sh",
+        "pfad": "/data/data/com.termux/files/home/aureon/lex_voice_core.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_voice_menu.sh",
+        "pfad": "/data/data/com.termux/files/home/aureon/lex_voice_menu.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "auto_fusion_20250615_154002.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/auto_fusion_20250615_154002.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "bootview.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/bootview.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "master_setup_log_20250615_131900.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/master_setup_log_20250615_131900.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "module_autofix_20250615_144240.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/module_autofix_20250615_144240.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "module_autofix_20250615_144515.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/module_autofix_20250615_144515.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "module_autofix_20250615_144942.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/module_autofix_20250615_144942.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "module_autofix_20250615_145655.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/module_autofix_20250615_145655.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_final_20250615_152531.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_final_20250615_152531.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_final_20250615_152630.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_final_20250615_152630.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_final_20250615_152724.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_final_20250615_152724.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_final_20250615_154140.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_final_20250615_154140.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_final_20250615_154223.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_final_20250615_154223.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_final_20250615_154344.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_final_20250615_154344.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_fix_20250615_145632.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_fix_20250615_145632.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_fix_20250615_145723.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_fix_20250615_145723.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_fix_20250615_152135.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_fix_20250615_152135.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_live_20250615_151419.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_live_20250615_151419.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_live_20250615_151537.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_live_20250615_151537.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_live_20250615_151725.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_live_20250615_151725.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_master_20250615_135135.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_master_20250615_135135.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_master_20250615_135500.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_master_20250615_135500.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_master_20250615_140359.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_master_20250615_140359.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_master_20250615_140756.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_master_20250615_140756.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_master_20250615_141457.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_master_20250615_141457.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_master_20250615_141650.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_master_20250615_141650.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_master_20250615_145655.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_master_20250615_145655.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "monster_universal_20250615_150535.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/monster_universal_20250615_150535.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "tor_startup.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/tor_startup.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "universal_fix_20250615_144928.log",
+        "pfad": "/data/data/com.termux/files/home/aureon/logs/universal_fix_20250615_144928.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "orion_aufklaerung_guard.py",
+        "pfad": "/data/data/com.termux/files/home/aureon/modules/orion_aufklaerung_guard.py",
+        "kategorie": "core"
+    },
+    {
+        "name": "orion_auto_guard.py",
+        "pfad": "/data/data/com.termux/files/home/aureon/modules/orion_auto_guard.py",
+        "kategorie": "core"
+    },
+    {
+        "name": "orion_live_guard.py",
+        "pfad": "/data/data/com.termux/files/home/aureon/modules/orion_live_guard.py",
+        "kategorie": "core"
+    },
+    {
+        "name": "mtk_apps.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/mtk_apps.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "pids.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/pids.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "auth.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/protect/auth.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "vpnbook_de20_tcp443.ovpn",
+        "pfad": "/data/data/com.termux/files/home/aureon/protect/vpnbook_de20_tcp443.ovpn",
+        "kategorie": "core"
+    },
+    {
+        "name": "datei_log.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/scan/datei_log.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "dienste.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/scan/dienste.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "inputlog.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/scan/inputlog.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "log_zugriffe.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/scan/log_zugriffe.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "mtk_apps.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/scan/mtk_apps.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "netzwerk.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/scan/netzwerk.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "orion_log.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/scan/orion_log.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "pids.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/scan/pids.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "prozesse.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/scan/prozesse.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "rechte.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/scan/rechte.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "suspected_overlays.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/scan/suspected_overlays.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "tartet...\"",
+        "pfad": "/data/data/com.termux/files/home/aureon/scan/tartet...\"",
+        "kategorie": "core"
+    },
+    {
+        "name": "zusammenfassung.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/scan/zusammenfassung.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_prepare_android.sh",
+        "pfad": "/data/data/com.termux/files/home/aureon/setup/aureon_prepare_android.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "setup_master_autostart.sh",
+        "pfad": "/data/data/com.termux/files/home/aureon/setup/setup_master_autostart.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "setup_master_autostart.sh",
+        "pfad": "/data/data/com.termux/files/home/aureon/setup_master_autostart.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "shadow_dawn_core.sh",
+        "pfad": "/data/data/com.termux/files/home/aureon/shadow_dawn/shadow_dawn_core.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "stealth_log.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/shadow_dawn/stealth_log.txt",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "aureon_shieldstrike_full.sh",
+        "pfad": "/data/data/com.termux/files/home/aureon/shield/aureon_shieldstrike_full.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "suspected_overlays.txt",
+        "pfad": "/data/data/com.termux/files/home/aureon/suspected_overlays.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "aur_menu.sh",
+        "pfad": "/data/data/com.termux/files/home/aureon/terminal/aur_menu.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_menu.sh",
+        "pfad": "/data/data/com.termux/files/home/aureon/terminal/aureon_menu.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "jotmalex.sh",
+        "pfad": "/data/data/com.termux/files/home/jotmalex.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "aureon_autostart_vpnmonster.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/aureon_autostart_vpnmonster.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "aureon_vpnmonster_cleaned.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/aureon_vpnmonster_cleaned.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "jotmalex.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/jotmalex.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "jotmalex_protokoll.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/jotmalex_protokoll.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_aktivierung_terminal.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_aktivierung_terminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_aktivierungsterminal.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_aktivierungsterminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_antworten_modul.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_antworten_modul.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_master_terminal.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_core/lex_master_terminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_terminal.py",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_core/lex_terminal.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_ganzheit.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_ganzheit.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_kommandomen\u00fc_final.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_kommandomen\u00fc_final.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_letzterdialog.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_letzterdialog.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_master_terminal.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_master_terminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_quantumkern.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_quantumkern.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_replay.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_replay.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_speak.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_speak.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_speicher.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_speicher.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_sprachsystem.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_sprachsystem.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_sprachterminal_v2.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_sprachterminal_v2.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_supervisor_terminal.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_supervisor_terminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_terminal_menu.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_terminal_menu.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_terminal_python.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_terminal_python.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_terminal_v2.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_terminal_v2.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_truth_scanner.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_truth_scanner.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_vpn_control.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/lex_vpn_control.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadow_launcher.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/shadow_launcher.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowbyte.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/shadowbyte.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowbyte_vpn.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/shadowbyte_vpn.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowfinal.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/shadowfinal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowroot.sh",
+        "pfad": "/data/data/com.termux/files/home/kneo_lex_omnia/shadowroot.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "airos_6_x.py",
+        "pfad": "/data/data/com.termux/files/home/routersploit/routersploit/modules/exploits/routers/ubiquiti/airos_6_x.py",
+        "kategorie": "intelligenz"
+    },
+    {
+        "name": "magisk.apk",
+        "pfad": "/data/data/com.termux/files/home/shadowfinal/magisk.apk",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "magisk.zip",
+        "pfad": "/data/data/com.termux/files/home/shadowfinal/magisk.zip",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "rootlog_2025-04-30.log",
+        "pfad": "/data/data/com.termux/files/home/shadowfinal/rootlog_2025-04-30.log",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadowreport.log",
+        "pfad": "/data/data/com.termux/files/home/shadowreport.log",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "magisk.apk",
+        "pfad": "/data/data/com.termux/files/home/shadowroot/magisk.apk",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "magisk.zip",
+        "pfad": "/data/data/com.termux/files/home/shadowroot/magisk.zip",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadowfinal.sh",
+        "pfad": "/data/data/com.termux/files/home/shadowroot/shadowfinal.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadowroot.sh",
+        "pfad": "/data/data/com.termux/files/home/shadowroot/shadowroot.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "lex_input.txt",
+        "pfad": "/data/data/com.termux/files/home/.aurion_core/lex_input.txt",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_gui_interface.py",
+        "pfad": "/data/data/com.termux/files/home/.aurion_gui/lex_gui_interface.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_vpn_control.sh",
+        "pfad": "/data/data/com.termux/files/home/.aurion_gui/lex_vpn_control.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_supervisor_terminal.sh",
+        "pfad": "/data/data/com.termux/files/home/.aurion_lex/lex_supervisor_terminal.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_vpn_control.sh",
+        "pfad": "/data/data/com.termux/files/home/.aurion_vpn/lex_vpn_control.sh",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "aureon_ai_modules.txt",
+        "pfad": "/data/data/com.termux/files/home/AUREON/aureon_ai_modules.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_system_map.txt",
+        "pfad": "/data/data/com.termux/files/home/AUREON/aureon_system_map.txt",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_ethic_core_vollmacht.py",
+        "pfad": "/data/data/com.termux/files/home/aureon_ethic_core_vollmacht.py",
+        "kategorie": "core"
+    },
+    {
+        "name": "tor.log",
+        "pfad": "/data/data/com.termux/files/home/aureon_hidden/tor.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "webserver.log",
+        "pfad": "/data/data/com.termux/files/home/aureon_hidden/webserver.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "COMMIT_EDITMSG",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/COMMIT_EDITMSG",
+        "kategorie": "core"
+    },
+    {
+        "name": "HEAD",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/HEAD",
+        "kategorie": "core"
+    },
+    {
+        "name": "config",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/config",
+        "kategorie": "core"
+    },
+    {
+        "name": "description",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/description",
+        "kategorie": "core"
+    },
+    {
+        "name": "applypatch-msg.sample",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/applypatch-msg.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "commit-msg.sample",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/commit-msg.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "fsmonitor-watchman.sample",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/fsmonitor-watchman.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "post-update.sample",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/post-update.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "pre-applypatch.sample",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-applypatch.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "pre-commit.sample",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-commit.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "pre-merge-commit.sample",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-merge-commit.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "pre-push.sample",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-push.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "pre-rebase.sample",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-rebase.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "pre-receive.sample",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/pre-receive.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "prepare-commit-msg.sample",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/prepare-commit-msg.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "push-to-checkout.sample",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/push-to-checkout.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "sendemail-validate.sample",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/sendemail-validate.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "update.sample",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/hooks/update.sample",
+        "kategorie": "core"
+    },
+    {
+        "name": "index",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/index",
+        "kategorie": "core"
+    },
+    {
+        "name": "exclude",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/info/exclude",
+        "kategorie": "core"
+    },
+    {
+        "name": "HEAD",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/logs/HEAD",
+        "kategorie": "core"
+    },
+    {
+        "name": "main",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/logs/refs/heads/main",
+        "kategorie": "core"
+    },
+    {
+        "name": "71d2fd5db59e3ebc00c78db9703cf61c92d71b",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/3e/71d2fd5db59e3ebc00c78db9703cf61c92d71b",
+        "kategorie": "core"
+    },
+    {
+        "name": "f7a395a12a17de1f09a0a7dad5624dfa1e1e04",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/7a/f7a395a12a17de1f09a0a7dad5624dfa1e1e04",
+        "kategorie": "core"
+    },
+    {
+        "name": "de7c2636e7ed3e0df3a23424387ae6a833b2c4",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/objects/f1/de7c2636e7ed3e0df3a23424387ae6a833b2c4",
+        "kategorie": "core"
+    },
+    {
+        "name": "main",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/.git/refs/heads/main",
+        "kategorie": "core"
+    },
+    {
+        "name": "README.md",
+        "pfad": "/data/data/com.termux/files/home/aureon_infinity_manifest/README.md",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_prepare_android.sh",
+        "pfad": "/data/data/com.termux/files/home/infinity_core/misc/aureon_prepare_android.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "setup_master_autostart.sh",
+        "pfad": "/data/data/com.termux/files/home/infinity_core/misc/setup_master_autostart.sh",
+        "kategorie": "unknown"
+    },
+    {
+        "name": "aureon_shieldstrike_full.sh",
+        "pfad": "/data/data/com.termux/files/home/infinity_core/security/aureon_shieldstrike_full.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_menu.sh",
+        "pfad": "/data/data/com.termux/files/home/infinity_core/ui/aureon_menu.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "say_hub.cpython-312.pyc",
+        "pfad": "/data/data/com.termux/files/home/lex_modules_core/__pycache__/say_hub.cpython-312.pyc",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "say_hub.py",
+        "pfad": "/data/data/com.termux/files/home/lex_modules_core/say_hub.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "say_hub_20250613_220119.bak.py",
+        "pfad": "/data/data/com.termux/files/home/lex_modules_core/say_hub_20250613_220119.bak.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "say_hub_diagnose_link.py",
+        "pfad": "/data/data/com.termux/files/home/lex_modules_core/say_hub_diagnose_link.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "aureon_autostart_20250615.log",
+        "pfad": "/data/data/com.termux/files/home/logs/aureon_autostart_20250615.log",
+        "kategorie": "core"
+    },
+    {
+        "name": "shadow_diag_report_20250613_224437.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250613_224437.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_224749.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250613_224749.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_225137.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250613_225137.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_225425.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250613_225425.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_225701.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250613_225701.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_231637.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250613_231637.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_231720.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250613_231720.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_231746.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250613_231746.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_231923.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250613_231923.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_233313.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233313.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_233323.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233323.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_233534.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233534.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_233609.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233609.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_233659.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233659.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250613_233910.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250613_233910.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250614_190007.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250614_190007.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250614_190018.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250614_190018.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250614_190230.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250614_190230.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_085919.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250615_085919.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_085935.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250615_085935.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_090147.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250615_090147.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_090712.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250615_090712.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_090718.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250615_090718.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_101742.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250615_101742.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_101745.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250615_101745.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_101907.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250615_101907.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_135645.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250615_135645.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_135651.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250615_135651.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_140228.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250615_140228.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_140441.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250615_140441.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_140448.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250615_140448.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_140454.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250615_140454.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_diag_report_20250615_140652.json",
+        "pfad": "/data/data/com.termux/files/home/logs/shadow_diag_report_20250615_140652.json",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "ShadowByte_OVPN.ovpn",
+        "pfad": "/data/data/com.termux/files/home/orion_guard/installers/deb/usr/share/orion_guard/vpn_profiles/ShadowByte_OVPN.ovpn",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "ShadowByte_OVPN.ovpn",
+        "pfad": "/data/data/com.termux/files/home/orion_guard/vpn_profiles/ShadowByte_OVPN.ovpn",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "AUREON_RELEASE_DENNIS_MAIER.zip",
+        "pfad": "/data/data/com.termux/files/home/qshield_local/AUREON_RELEASE_DENNIS_MAIER.zip",
+        "kategorie": "core"
+    },
+    {
+        "name": "lex_sprachlog.py",
+        "pfad": "/data/data/com.termux/files/home/quantumshield/core/lex_sprachlog.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_startup.py",
+        "pfad": "/data/data/com.termux/files/home/quantumshield/core/lex_startup.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_supervisor_core.py",
+        "pfad": "/data/data/com.termux/files/home/quantumshield/core/lex_supervisor_core.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_supervisor_menu.py",
+        "pfad": "/data/data/com.termux/files/home/quantumshield/core/lex_supervisor_menu.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_supervisor_reaktiv.py",
+        "pfad": "/data/data/com.termux/files/home/quantumshield/core/lex_supervisor_reaktiv.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_supervisor_socketlink.py",
+        "pfad": "/data/data/com.termux/files/home/quantumshield/core/lex_supervisor_socketlink.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_supervisor_treewalker.py",
+        "pfad": "/data/data/com.termux/files/home/quantumshield/core/lex_supervisor_treewalker.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowcore_logger.py",
+        "pfad": "/data/data/com.termux/files/home/quantumshield/core/shadowcore_logger.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadowcore_receiver.py",
+        "pfad": "/data/data/com.termux/files/home/quantumshield/core/shadowcore_receiver.py",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "lex_change_brain.md",
+        "pfad": "/data/data/com.termux/files/home/quantumshield/lex_change_brain.md",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_dateisuche.py",
+        "pfad": "/data/data/com.termux/files/home/quantumshield/lex_dateisuche.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_dialog.py",
+        "pfad": "/data/data/com.termux/files/home/quantumshield/lex_dialog.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_lernsystem.py",
+        "pfad": "/data/data/com.termux/files/home/quantumshield/lex_lernsystem.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_sicherheitslayer.py",
+        "pfad": "/data/data/com.termux/files/home/quantumshield/lex_sicherheitslayer.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_supervisor.py",
+        "pfad": "/data/data/com.termux/files/home/quantumshield/lex_supervisor.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "lex_to_kali_link.py",
+        "pfad": "/data/data/com.termux/files/home/quantumshield/lex_to_kali_link.py",
+        "kategorie": "sprachsteuerung"
+    },
+    {
+        "name": "shadowcore.service",
+        "pfad": "/data/data/com.termux/files/home/quantumshield/shadowcore.service",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadow_launcher.sh",
+        "pfad": "/data/data/com.termux/files/home/shadow_launcher.sh",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "shadowbyte_meine_skripte_liste.txt",
+        "pfad": "/data/data/com.termux/files/home/shadowbyte_meine_skripte_liste.txt",
+        "kategorie": "netzschutz"
+    },
+    {
+        "name": "aureon_autostart_vpnmonster.sh",
+        "pfad": "/data/data/com.termux/files/home/tools/aureon_autostart_vpnmonster.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_prepare_android.sh",
+        "pfad": "/data/data/com.termux/files/home/aureon/setup/aureon_prepare_android.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "setup_master_autostart.sh",
+        "pfad": "/data/data/com.termux/files/home/aureon/setup_master_autostart.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_shieldstrike_full.sh",
+        "pfad": "/data/data/com.termux/files/home/aureon/shield/aureon_shieldstrike_full.sh",
+        "kategorie": "core"
+    },
+    {
+        "name": "aureon_menu.sh",
+        "pfad": "/data/data/com.termux/files/home/aureon/terminal/aureon_menu.sh",
+        "kategorie": "core"
+    }
+]
