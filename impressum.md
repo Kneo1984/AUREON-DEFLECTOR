@@ -1,6 +1,6 @@
-# Impressum gemäß § 5 TMG
+# Impressum nach §5 TMG
+
 Dennis Maier  
 Südstraße, 47798 Krefeld  
 E-Mail: kneolekks@gmail.com  
-Verantwortlich für den Inhalt: Dennis Maier  
-Kommerzielle Anfragen nur mit schriftlicher Zustimmung.
+Verantwortlich: Dennis Maier  

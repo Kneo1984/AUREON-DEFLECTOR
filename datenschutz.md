@@ -1,6 +1,6 @@
-# Datenschutzerklärung gemäß DSGVO
-Diese Software verarbeitet keine personenbezogenen Daten.  
-Alle Vorgänge erfolgen lokal.  
-Für externe Dienste (z. B. GitHub) gelten deren Datenschutzrichtlinien.
+# Datenschutzerklärung
 
-Verantwortlich: Dennis Maier
+Diese Software speichert keine personenbezogenen Daten.  
+Alle Funktionen laufen lokal.  
+Externe Dienste wie GitHub unterliegen deren Datenschutzerklärung.  
+Verantwortlich: Dennis Maier  
