@@ -3,4 +3,4 @@
 Dennis Maier  
 Südstraße, 47798 Krefeld  
 E-Mail: kneolekks@gmail.com  
-Verantwortlich: Dennis Maier  
+Verantwortlich: Dennis Maier
